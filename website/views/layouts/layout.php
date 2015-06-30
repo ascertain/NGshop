@@ -16,7 +16,7 @@
     <script type="text/javascript">
         var language = '<?= $this->language ?>';
     </script>
-<title>Nge Shop</title>
+<title>Nge Shop 1</title>
     <link rel="stylesheet" href="/static/css/bootstrap.css" type="text/css"/>
     <link rel="stylesheet" href="//netdna.bootstrapcdn.com/font-awesome/3.1.1/css/font-awesome.css">
     <link rel="stylesheet" href="/static/addons/superfish_responsive/superfish.css" type="text/css"/>
