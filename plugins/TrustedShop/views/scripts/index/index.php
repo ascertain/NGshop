@@ -1,0 +1,2 @@
+
+TrustedShop Plugin works!

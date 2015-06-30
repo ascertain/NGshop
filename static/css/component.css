@@ -1,0 +1,1001 @@
+@import url("http://fonts.googleapis.com/css?family=Homenaje&subset=latin,latin-ext");
+.ngeMainWrapper {
+  font-family: Arial, Helvetica, sans-serif !important;
+  font-size: 100% !important;
+  background-color: #fff !important;
+  display: block !important;
+  /*
+  	* jquery.rs.carousel.css @VERSION
+  	* @HOMEPAGE
+  	*
+  	* Copyright (c) 2013 Richard Scarrott
+  	* http://www.richardscarrott.co.uk
+  	*
+  	* Dual licensed under the MIT and GPL licenses:
+  	* http://www.opensource.org/licenses/mit-license.php
+  	* http://www.gnu.org/licenses/gpl.html
+  	*
+  	* Depends:
+  	*  a basic reset + items must have width & height
+  	*/
+  /* jQuery UI - v1.10.3 - 2013-10-14
+  * http://jqueryui.com
+  * Includes: jquery.ui.core.css, jquery.ui.slider.css
+  * Copyright 2013 jQuery Foundation and other contributors !important; Licensed MIT */
+  /* Swipe 2 required styles */
+  /* END required styles */ }
+  .ngeMainWrapper div, .ngeMainWrapper span, .ngeMainWrapper object, .ngeMainWrapper iframe, .ngeMainWrapper h1, .ngeMainWrapper h2, .ngeMainWrapper h3, .ngeMainWrapper h4, .ngeMainWrapper h5, .ngeMainWrapper h6, .ngeMainWrapper p, .ngeMainWrapper blockquote, .ngeMainWrapper pre, .ngeMainWrapper abbr, .ngeMainWrapper address, .ngeMainWrapper cite, .ngeMainWrapper code, .ngeMainWrapper del, .ngeMainWrapper dfn, .ngeMainWrapper em, .ngeMainWrapper img, .ngeMainWrapper ins, .ngeMainWrapper kbd, .ngeMainWrapper q, .ngeMainWrapper samp, .ngeMainWrapper small, .ngeMainWrapper strong, .ngeMainWrapper sub, .ngeMainWrapper sup, .ngeMainWrapper var, .ngeMainWrapper b, .ngeMainWrapper i, .ngeMainWrapper dl, .ngeMainWrapper dt, .ngeMainWrapper dd, .ngeMainWrapper ol, .ngeMainWrapper ul, .ngeMainWrapper li, .ngeMainWrapper fieldset, .ngeMainWrapper form, .ngeMainWrapper label, .ngeMainWrapper legend, .ngeMainWrapper table, .ngeMainWrapper caption, .ngeMainWrapper tbody, .ngeMainWrapper tfoot, .ngeMainWrapper thead, .ngeMainWrapper tr, .ngeMainWrapper th, .ngeMainWrapper td, .ngeMainWrapper hgroup, .ngeMainWrapper menu, .ngeMainWrapper time {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    outline: 0;
+    font-size: 100%;
+    line-height: 114%;
+    vertical-align: baseline;
+    background-image: none; }
+  .ngeMainWrapper div {
+    display: block; }
+  .ngeMainWrapper blockquote, .ngeMainWrapper q {
+    quotes: none; }
+  .ngeMainWrapper blockquote:before, .ngeMainWrapper blockquote:after, .ngeMainWrapper q:before, .ngeMainWrapper q:after {
+    content: '';
+    content: none; }
+  .ngeMainWrapper a {
+    margin: 0;
+    padding: 0;
+    font-size: 100%;
+    vertical-align: baseline; }
+  .ngeMainWrapper input, .ngeMainWrapper select {
+    vertical-align: middle;
+    border: 0 none; }
+  .ngeMainWrapper ul, .ngeMainWrapper ol, .ngeMainWrapper li {
+    list-style: none !important;
+    list-style-type: none !important;
+    background-image: none !important;
+    margin: 0 !important;
+    padding: 0 !important; }
+  .ngeMainWrapper li:before, .ngeMainWrapper li:after {
+    margin: 0 !important;
+    padding: 0 !important;
+    content: '' !important;
+    content: none !important; }
+  .ngeMainWrapper .ngeSection {
+    clear: both; }
+  .ngeMainWrapper .ngeHeader {
+    background-color: #ffd500 !important;
+    padding: 10px 5px 0 !important;
+    height: 38px !important;
+    border-bottom: 2px solid #E0E0E0!important; }
+  .ngeMainWrapper h6 {
+    color: #000 !important;
+    padding: 2px !important;
+    display: block !important;
+    font-family: Homenaje, Charcoal, sans-serif !important;
+    font-weight: bold !important;
+    font-size: 27px !important;
+    line-height: 100% !important;
+    text-transform: uppercase !important;
+    font-weight: bold !important;
+    -webkit-text-shadow: 0 2px white, 2px -2px white, 2px 0 white, 2px 2px white, 0 2px white, -2px 2px white, -2px 0 white, -2px -2px white, 2px 4px 6px black !important;
+    -moz-text-shadow: 0 2px white, 2px -2px white, 2px 0 white, 2px 2px white, 0 2px white, -2px 2px white, -2px 0 white, -2px -2px white, 2px 4px 6px black !important;
+    text-shadow: 0 2px white, 2px -2px white, 2px 0 white, 2px 2px white, 0 2px white, -2px 2px white, -2px 0 white, -2px -2px white, 2px 4px 6px black !important; }
+  .ngeMainWrapper h6.ngeWhitetext {
+    padding: 0 !important;
+    margin: 0 !important;
+    display: block !important;
+    font-family: Homenaje, Charcoal, sans-serif !important;
+    font-weight: bold !important;
+    font-size: 27px !important;
+    text-transform: uppercase !important;
+    font-weight: bold !important;
+    color: #fff !important;
+    -webkit-text-shadow: 0 1px 1px black, 1px -1px 1px black, 1px 0 1px black, 1px 1px 1px black, 0 1px 1px black, -1px 1px 1px black, -1px 0 1px black, -1px -1px 1px black, 3px 6px 6px rgba(0, 0, 0, 0.62) !important;
+    -moz-text-shadow: 0 1px 1px black, 1px -1px 1px black, 1px 0 1px black, 1px 1px 1px black, 0 1px 1px black, -1px 1px 1px black, -1px 0 1px black, -1px -1px 1px black, 3px 6px 6px rgba(0, 0, 0, 0.62) !important;
+    text-shadow: 0 1px 1px black, 1px -1px 1px black, 1px 0 1px black, 1px 1px 1px black, 0 1px 1px black, -1px 1px 1px black, -1px 0 1px black, -1px -1px 1px black, 3px 6px 6px rgba(0, 0, 0, 0.62) !important; }
+  .ngeMainWrapper .ngeInner p {
+    margin: 7px 0 !important;
+    font-size: 11px !important;
+    line-height: 114% !important; }
+  .ngeMainWrapper .ngeFooter {
+    clear: both !important; }
+  .ngeMainWrapper li.ngeProduct .ngeInner {
+    padding: 2px 4px 2px 4px !important;
+    height: 68px !important;
+    position: relative !important; }
+  .ngeMainWrapper li.ngeProduct .ngeImagewrapper {
+    border: 1px solid #000 !important;
+    background-color: #fff !important;
+    float: left !important;
+    margin-right: 2px !important;
+    width: 66px !important;
+    height: 66px !important; }
+  .ngeMainWrapper li.ngeProduct img {
+    margin: 5px !important; }
+  .ngeMainWrapper li.ngeProduct .ngePrice {
+    position: absolute !important;
+    bottom: 12px !important;
+    right: 4px !important;
+    font-weight: bold !important; }
+  .ngeMainWrapper li.ngeProduct .ngeAge {
+    position: absolute !important;
+    bottom: 12px !important;
+    left: 74px !important; }
+  .ngeMainWrapper .ngeButton {
+    display: inline-block !important;
+    text-align: center !important;
+    background-color: #f39100 !important;
+    background-image: url("../gfx/ButtonHighlight.png") !important;
+    background-repeat: no-repeat !important;
+    background-size: 100% 13px !important;
+    border: 0 none !important;
+    border-radius: 4px !important;
+    padding: 3px 7px !important;
+    font-family: Homenaje, Charcoal, sans-serif !important;
+    font-weight: bold !important;
+    text-transform: uppercase !important;
+    font-size: 14px !important;
+    color: #fff !important;
+    margin: 0 0 6px 0 !important;
+    height: auto !important;
+    line-height: 15px !important;
+    -webkit-text-shadow: 1px 2px 2px rgba(0, 0, 0, 0.85) !important;
+    -moz-text-shadow: 1px 2px 2px rgba(0, 0, 0, 0.85) !important;
+    text-shadow: 1px 2px 2px rgba(0, 0, 0, 0.85) !important;
+    -webkit-box-shadow: 2px 4px 5px rgba(0, 0, 0, 0.7) !important;
+    -moz-box-shadow: 2px 4px 5px rgba(0, 0, 0, 0.7) !important;
+    box-shadow: 2px 4px 5px rgba(0, 0, 0, 0.7) !important; }
+  .ngeMainWrapper p, .ngeMainWrapper .ngeLabel {
+    font-size: 12px !important; }
+  .ngeMainWrapper .ngeLabel {
+    cursor: pointer !important; }
+  .ngeMainWrapper a {
+    color: #000 !important;
+    text-decoration: none !important; }
+  .ngeMainWrapper.ngeTopList .ngeHeader .ngeButton {
+    float: right !important;
+    margin: 4px 4px 0 0 !important; }
+  .ngeMainWrapper.ngeTopList ul {
+    margin: 15px 0 8px !important; }
+  .ngeMainWrapper.ngeTopList .ngeFooter {
+    padding: 6px !important;
+    text-align: center !important; }
+  .ngeMainWrapper.ngeTopList.ngeOnecol .ngeHeader .ngeButton {
+    display: none !important; }
+  .ngeMainWrapper.ngeTopList.ngeTwocols .ngeContent {
+    float: left !important;
+    border: 2px solid #000 !important; }
+  .ngeMainWrapper.ngeTopList.ngeTwocols ul {
+    float: left !important;
+    margin: 8px 0 !important; }
+  .ngeMainWrapper.ngeTopList.ngeTwocols .ngeHeader {
+    border: 0 none !important; }
+  .ngeMainWrapper.ngeTopList.ngeTwocols li.ngeProduct {
+    float: left !important;
+    width: 50% !important; }
+  .ngeMainWrapper.ngeTopList.ngeTwocols li.ngeProduct .ngeInner {
+    margin: 0 5px !important; }
+  .ngeMainWrapper.ngeTopList.ngeTwocols .ngeFooter {
+    padding: 0 !important; }
+  .ngeMainWrapper.ngeTopList.ngeTwocols .ngeFooter .ngeButton {
+    display: none !important; }
+  .ngeMainWrapper.ngeAgeCenter {
+    background-color: #ffd500 !important; 
+	margin-top:20px}
+    .ngeMainWrapper.ngeAgeCenter .ngeHeader {
+      border-bottom: 0 none !important;
+      height: 28px !important;
+      padding: 5px 10px 0 !important; }
+    .ngeMainWrapper.ngeAgeCenter ul {
+      margin: 0 .3em !important; }
+    .ngeMainWrapper.ngeAgeCenter li {
+      width: 20% !important;
+      float: left !important;
+      height: 100% !important; }
+    .ngeMainWrapper.ngeAgeCenter li .ngeInner {
+      display: block !important;
+      border: 1px solid #fff !important;
+      margin: 10px 5px !important;
+      /*height: 125px !important;*/
+	  /* height: 125px !important; */
+      background-repeat: no-repeat !important;
+      background-size: cover !important;
+      background-position: right center !important; }
+   
+    .ngeMainWrapper.ngeAgeCenter li .ngeInner h6 {
+      display: block !important;
+      text-align: center !important;
+     /*  margin-top: 45px !important; */
+      font-size: 35px !important;
+	    bottom: 0 !important;
+  width: 100% !important;
+  background-color: #FFF !important;
+	  margin-top: 0 !important;
+  font-size: 35px !important;
+  position: relative;  
+	  }
+  .ngeMainWrapper.ngeGiftFinder .ngeHeader {
+    border: 0 none !important; }
+  .ngeMainWrapper.ngeGiftFinder .main.ngeContent {
+    border: 2px solid #000 !important; }
+  .ngeMainWrapper.ngeGiftFinder .ui-slider .ui-slider-handle {
+    background-color: transparent !important;
+    border: 0px none !important;
+    background-image: url("../gfx/GiftFinder/arrow_up.png") !important;
+    background-repeat: no-repeat !important;
+    width: 28px !important;
+    height: 29px !important;
+    top: -9px !important;
+    margin-left: -14px !important; }
+  .ngeMainWrapper.ngeGiftFinder .ui-slider .ui-slider-range {
+    background-color: #fff6cc !important;
+    border-style: none solid !important;
+    border-width: 0 1px !important;
+    border-color: #000 !important; }
+  .ngeMainWrapper.ngeGiftFinder .ngeFinder .ngeInner {
+    float: left !important;
+    width: 100% !important;
+    padding: 9px 0 0 0 !important; }
+  .ngeMainWrapper.ngeGiftFinder .ngeFinder li {
+    float: left !important;
+    clear: both !important;
+    width: 100% !important;
+    margin: 0 !important; }
+    .ngeMainWrapper.ngeGiftFinder .ngeFinder li .ngeCheckbox {
+      margin: 0 5px 0 0 !important; }
+    .ngeMainWrapper.ngeGiftFinder .ngeFinder li .ngeLabel {
+      display: block !important;
+      float: left !important;
+      width: 26% !important;
+      margin: 0 .3em !important; }
+      .ngeMainWrapper.ngeGiftFinder .ngeFinder li .ngeLabel.ngeLast {
+        width: 40% !important; }
+  .ngeMainWrapper.ngeGiftFinder .ngeFinder ul {
+    float: left !important;
+    width: 100% !important;
+    margin: 16px 0 !important; }
+  .ngeMainWrapper.ngeGiftFinder .ngeFinder p {
+    font-size: 12px !important;
+    margin: 0 !important; }
+  .ngeMainWrapper.ngeGiftFinder .ngeFinder p.ngeLeft {
+    float: left !important;
+    width: 20% !important;
+    text-align: right !important; }
+  .ngeMainWrapper.ngeGiftFinder .ngeFinder li.ngePrice,
+  .ngeMainWrapper.ngeGiftFinder .ngeFinder li.ngeAge {
+    height: 28px !important; }
+  .ngeMainWrapper.ngeGiftFinder .ngeFinder li.ngeUniverse,
+  .ngeMainWrapper.ngeGiftFinder .ngeFinder li.ngeType {
+    height: 24px !important; }
+  .ngeMainWrapper.ngeGiftFinder .ngeFinder li .ngeRight {
+    float: right !important;
+    width: 74% !important; }
+  .ngeMainWrapper.ngeGiftFinder .ngeFinder li .ngeSliderWrapper {
+    float: right !important;
+    width: 80.4% !important;
+    height: 8px !important;
+    border: 1px solid #000 !important;
+    border-radius: 5px !important;
+    padding: 0 2.5% !important;
+    margin-right: 14% !important; }
+  .ngeMainWrapper.ngeGiftFinder .ngeFinder li .ngeSlider {
+    float: right !important;
+    width: 100% !important;
+    height: 100% !important; }
+  .ngeMainWrapper.ngeGiftFinder .ngeRecommendations {
+    padding-bottom: 6px !important; }
+    .ngeMainWrapper.ngeGiftFinder .ngeRecommendations .ngeHeader {
+      background-color: transparent !important;
+      border: 0 none !important;
+      padding: 1px 0 0 1.1em !important;
+      height: auto !important; }
+      .ngeMainWrapper.ngeGiftFinder .ngeRecommendations .ngeHeader p {
+        font-family: Homenaje, Charcoal, sans-serif !important;
+        font-size: 13px !important;
+        /*font-weight: bold !important;*/
+        text-transform: uppercase !important; }
+    .ngeMainWrapper.ngeGiftFinder .ngeRecommendations .ngeContent {
+      height: 74px !important;
+      overflow: hidden !important; }
+    .ngeMainWrapper.ngeGiftFinder .ngeRecommendations .ngeCarousel {
+      height: 62px !important;
+      padding: 5px 12px !important;
+      margin: 0 1.1em !important;
+      border: 1px solid #000 !important;
+      background-color: #fff6cc !important;
+      position: relative !important; }
+    .ngeMainWrapper.ngeGiftFinder .ngeRecommendations ul {
+      height: 62px !important; }
+    .ngeMainWrapper.ngeGiftFinder .ngeRecommendations li {
+      display: block !important;
+      float: left !important; }
+    .ngeMainWrapper.ngeGiftFinder .ngeRecommendations li.ngeProduct .ngeInner {
+      height: 58px !important; }
+    .ngeMainWrapper.ngeGiftFinder .ngeRecommendations li.ngeProduct .ngePrice, .ngeMainWrapper.ngeGiftFinder .ngeRecommendations li.ngeProduct .ngeAge {
+      bottom: 6px !important; }
+    .ngeMainWrapper.ngeGiftFinder .ngeRecommendations li.ngeProduct .ngeAge {
+      left: 64px !important; }
+    .ngeMainWrapper.ngeGiftFinder .ngeRecommendations li.ngeProduct p {
+      margin: 5px 0 !important; }
+    .ngeMainWrapper.ngeGiftFinder .ngeRecommendations li.ngeProduct .ngeImagewrapper {
+      height: 56px !important;
+      width: 56px !important; }
+    .ngeMainWrapper.ngeGiftFinder .ngeRecommendations li.ngeProduct img {
+      margin: 0 !important; }
+    .ngeMainWrapper.ngeGiftFinder .ngeRecommendations .rs-carousel-action {
+      border: 0 none !important;
+      position: absolute !important;
+      top: 22px !important;
+      width: 29px !important;
+      height: 28px !important;
+      text-indent: 1000px !important;
+      overflow: hidden !important; }
+    .ngeMainWrapper.ngeGiftFinder .ngeRecommendations .rs-carousel-action-prev {
+      left: -15px !important;
+      background-image: url("../gfx/GiftFinder/arrow_left.png") !important;
+      background-repeat: no-repeat !important; }
+    .ngeMainWrapper.ngeGiftFinder .ngeRecommendations .rs-carousel-action-next {
+      right: -15px !important;
+      background-image: url("../gfx/GiftFinder/arrow_right.png") !important;
+      background-repeat: no-repeat !important; }
+    .ngeMainWrapper.ngeGiftFinder .ngeRecommendations .rs-carousel-mask {
+      height: 62px !important; }
+  .ngeMainWrapper.ngeToutsAndBadge {
+    display: block !important;
+    width: 40px !important; }
+    .ngeMainWrapper.ngeToutsAndBadge .ngeInner {
+      min-width: 40px !important;
+      height: 40px !important;
+      background-color: #e3000b !important;
+      text-align: center !important;
+      padding: 3px !important; }
+      .ngeMainWrapper.ngeToutsAndBadge .ngeInner.ngeYellow {
+        background-color: #ffd500 !important; }
+      .ngeMainWrapper.ngeToutsAndBadge .ngeInner h6.ngeWhitetext {
+        display: inline-block !important;
+        font-size: 15px !important; }
+  .ngeMainWrapper.ngeShopperNavigationButton {
+    display: block !important;
+    background-color: #ffd500 !important;
+    background-image: url("../gfx/ShopperNavigationButton/Button1.png") !important;
+    background-repeat: no-repeat !important;
+    background-size: contain !important;
+    background-position: top right !important;
+    width: 100% !important;
+    height: 185px !important; }
+    .ngeMainWrapper.ngeShopperNavigationButton.image2 {
+      background-image: url("../ShopperNavigationButton/Button2.png") !important;
+      background-position: top left !important; }
+	  .ngeMainWrapper.ngeShopperNavigationButton.image3 {
+      background-image: url("../ShopperNavigationButton/Button2.png") !important;
+      background-position: top right !important; }
+    .ngeMainWrapper.ngeShopperNavigationButton a {
+      display: block !important;
+      height: 100% !important;
+      padding: 1px !important; }
+      .ngeMainWrapper.ngeShopperNavigationButton a .ngeInner {
+        width: 130px !important;
+        max-width: 130px !important;
+        height: 106px !important;
+        max-height: 106px !important;
+        padding: 1px !important;
+        margin-top: 57px !important; }
+        .ngeMainWrapper.ngeShopperNavigationButton a .ngeInner.ngeLeft {
+          float: left;
+          margin-left: 47px; }
+        .ngeMainWrapper.ngeShopperNavigationButton a .ngeInner.ngeRight {
+          float: right;
+          margin-right: 47px; }
+        .ngeMainWrapper.ngeShopperNavigationButton a .ngeInner h6 {
+          width: 100% !important;
+          text-align: center !important;
+          font-size: 30px !important; }
+  .ngeMainWrapper.ngeNudge .ngeInner {
+    width: 100% !important;
+    height: 38px !important;
+    text-align: center !important;
+    background-repeat: no-repeat !important;
+    background-position: center center !important;
+    background-size: cover !important;
+    background-color: #e3000b !important;
+    padding: 1px !important; }
+    .ngeMainWrapper.ngeNudge .ngeInner.ngeYellow {
+      background-color: #ffd500 !important; }
+    .ngeMainWrapper.ngeNudge .ngeInner.ngeTwocols.ngeYellow {
+      background-image: url("../gfx/Nudge/2colsYellow.png") !important; }
+    .ngeMainWrapper.ngeNudge .ngeInner.ngeThreecols.ngeYellow {
+      background-image: url("../gfx/Nudge/3colsYellow.png") !important; }
+    .ngeMainWrapper.ngeNudge .ngeInner h6.ngeWhitetext {
+      display: block !important;
+      font-size: 24px !important;
+      line-height: 100% !important; }
+  .ngeMainWrapper.ngeNavigateAll {
+    width: 100% !important;
+    background-color: #ffd500 !important; }
+    .ngeMainWrapper.ngeNavigateAll.ngeOnecol {
+      height: 75px !important;
+      padding: 5px 0 7px !important; }
+      .ngeMainWrapper.ngeNavigateAll.ngeOnecol h6.ngeWhitetext {
+        display: none !important; }
+      .ngeMainWrapper.ngeNavigateAll.ngeOnecol a {
+        height: 100% !important;
+        display: block !important;
+        margin: 0 6.5% !important; }
+        .ngeMainWrapper.ngeNavigateAll.ngeOnecol a .ngeInner {
+          width: 100% !important;
+          height: 100% !important;
+          text-align: center !important;
+          background-color: #f39100 !important;
+          background-image: url("../gfx/NavigateAll/ButtonHighlight.png") !important;
+          background-repeat: no-repeat !important;
+          background-size: 100% 41px !important;
+          border-radius: 3px !important;
+          -webkit-box-shadow: 1px 2px 3px rgba(0, 0, 0, 0.7) !important;
+          -moz-box-shadow: 1px 2px 3px rgba(0, 0, 0, 0.7) !important;
+          box-shadow: 1px 2px 3px rgba(0, 0, 0, 0.7) !important; }
+          .ngeMainWrapper.ngeNavigateAll.ngeOnecol a .ngeInner img {
+            margin: 1px 0 0 !important; }
+    .ngeMainWrapper.ngeNavigateAll.ngeThreecols img, .ngeMainWrapper.ngeNavigateAll.ngeFourcols img {
+      display: none !important; }
+    .ngeMainWrapper.ngeNavigateAll.ngeThreecols .ngeInner, .ngeMainWrapper.ngeNavigateAll.ngeFourcols .ngeInner {
+      width: 100% !important;
+      height: 38px !important;
+      text-align: center !important;
+      background-repeat: no-repeat !important;
+      background-position: center center !important;
+      background-size: cover !important;
+      background-color: #ffd500 !important;
+      padding: 1px !important;
+      background-image: url("../gfx/NavigateAll/4colsYellow.png") !important; }
+      .ngeMainWrapper.ngeNavigateAll.ngeThreecols .ngeInner h6.ngeWhitetext, .ngeMainWrapper.ngeNavigateAll.ngeFourcols .ngeInner h6.ngeWhitetext {
+        display: block !important;
+        font-size: 24px !important;
+        line-height: 100% !important; }
+  .ngeMainWrapper.ngeNavigateOn {
+    background-repeat: no-repeat !important;
+    background-position: center center !important;
+    background-size: cover !important;
+    background-color: #ffd500 !important;
+    width: 100% !important;
+    height: 110px !important;
+    padding: 10px 0 0 0 !important; }
+    .ngeMainWrapper.ngeNavigateOn .ngeFirst {
+      float: left !important;
+      width: 22.7% !important;
+      height: 100px !important;
+      text-align: center !important; }
+      .ngeMainWrapper.ngeNavigateOn .ngeFirst img {
+        margin: 15px 0 0 0 !important;
+        max-width: 100% !important; }
+    .ngeMainWrapper.ngeNavigateOn ul {
+      width: 77.3% !important;
+      height: 100px !important;
+      float: left !important; }
+      .ngeMainWrapper.ngeNavigateOn ul li {
+        float: left !important;
+        width: 25% !important; }
+        .ngeMainWrapper.ngeNavigateOn ul li img {
+          height: 100px !important;
+          width: 100px !important;
+          max-width: 98% !important;
+          height: auto !important; }
+    .ngeMainWrapper.ngeNavigateOn.ngeThreecols {
+      background-image: url("../gfx/NavigateOn/3colsYellow.png") !important; }
+      .ngeMainWrapper.ngeNavigateOn.ngeThreecols .ngeLast {
+        display: none !important; }
+    .ngeMainWrapper.ngeNavigateOn.ngeFourcols {
+      background-image: url("../gfx/NavigateOn/4colsYellow.png") !important; }
+      .ngeMainWrapper.ngeNavigateOn.ngeFourcols .ngeFirst {
+        width: 20% !important;
+        text-align: right !important; }
+        .ngeMainWrapper.ngeNavigateOn.ngeFourcols .ngeFirst img {
+          margin: 15px 31px 0 0 !important;
+          max-width: 100% !important; }
+      .ngeMainWrapper.ngeNavigateOn.ngeFourcols ul {
+        width: 80% !important; }
+        .ngeMainWrapper.ngeNavigateOn.ngeFourcols ul li {
+          width: 20% !important; }
+      .ngeMainWrapper.ngeNavigateOn.ngeFourcols .ngeLast .ngeInner {
+        text-align: center !important;
+        background-color: #f39100 !important;
+        background-image: url("../gfx/NavigateOn/Highlight.png") !important;
+        background-repeat: no-repeat !important;
+        background-size: 100% 102px !important;
+        border: 1px solid #000 !important;
+        height: 98px !important;
+        width: 98px !important;
+        max-width: 90% !important;
+        margin-right: 10px !important; }
+        .ngeMainWrapper.ngeNavigateOn.ngeFourcols .ngeLast .ngeInner img {
+          width: auto !important;
+          max-width: 100% !important; }
+  .ngeMainWrapper.ngeCrossCategoryNavigation {
+    background-color: #ffd500 !important;
+    width: 100% !important;
+    height: 112px !important;
+    padding: 8px 0 0 0 !important; }
+    .ngeMainWrapper.ngeCrossCategoryNavigation .ngeFirst {
+      float: left !important;
+      height: 100px !important; }
+    .ngeMainWrapper.ngeCrossCategoryNavigation ul {
+      height: 112px !important;
+      float: left !important; }
+      .ngeMainWrapper.ngeCrossCategoryNavigation ul li {
+        float: left !important;
+        text-align: center !important; }
+        .ngeMainWrapper.ngeCrossCategoryNavigation ul li .ngeInner {
+          height: 87px !important;
+          border: 1px solid #000 !important;
+          background-color: #fff !important;
+          background-repeat: no-repeat !important;
+          background-size: cover !important;
+          background-position: center center !important;
+          margin: 0 10px 0 0 !important; }
+          .ngeMainWrapper.ngeCrossCategoryNavigation ul li .ngeInner.ngeVideoGames {
+            background-image: url("../gfx/CrossCategoryNavigation/VideoGames.png") !important; }
+          .ngeMainWrapper.ngeCrossCategoryNavigation ul li .ngeInner.ngeForTheRoom {
+            background-image: url("../gfx/CrossCategoryNavigation/ForTheRoom.png") !important; }
+          .ngeMainWrapper.ngeCrossCategoryNavigation ul li .ngeInner.ngeForSchool {
+            background-image: url("../gfx/CrossCategoryNavigation/ForSchool.png") !important; }
+          .ngeMainWrapper.ngeCrossCategoryNavigation ul li .ngeInner.ngeClothing {
+            background-image: url("../gfx/CrossCategoryNavigation/Clothing.png") !important; }
+          .ngeMainWrapper.ngeCrossCategoryNavigation ul li .ngeInner.ngeBoardGame {
+            background-image: url("../gfx/CrossCategoryNavigation/BoardGame.png") !important; }
+        .ngeMainWrapper.ngeCrossCategoryNavigation ul li p {
+          font-family: Homenaje, Charcoal, sans-serif !important;
+          display: block !important;
+          text-transform: uppercase !important;
+          font-size: 13px !important;
+          font-weight: bold !important;
+          line-height: 100% !important;
+          margin: 4px 10px 0 0 !important; }
+    .ngeMainWrapper.ngeCrossCategoryNavigation.ngeThreecols .ngeFirst {
+      width: 24.9% !important;
+      text-align: center !important; }
+      .ngeMainWrapper.ngeCrossCategoryNavigation.ngeThreecols .ngeFirst img {
+        margin: 26px 0 0 !important;
+        max-width: 86% !important; }
+    .ngeMainWrapper.ngeCrossCategoryNavigation.ngeThreecols .ngeFirst img.ngeLarge {
+      display: none !important; }
+    .ngeMainWrapper.ngeCrossCategoryNavigation.ngeThreecols ul {
+      width: 72.5% !important;
+      margin-right: 2.6% !important; }
+      .ngeMainWrapper.ngeCrossCategoryNavigation.ngeThreecols ul li {
+        width: 25% !important; }
+    .ngeMainWrapper.ngeCrossCategoryNavigation.ngeThreecols .ngeLast {
+      display: none !important; }
+    .ngeMainWrapper.ngeCrossCategoryNavigation.ngeFourcols .ngeFirst {
+      width: 27.5% !important;
+      text-align: center !important; }
+      .ngeMainWrapper.ngeCrossCategoryNavigation.ngeFourcols .ngeFirst img {
+        margin: 23px 12% 0 0 !important;
+        max-width: 83% !important; }
+    .ngeMainWrapper.ngeCrossCategoryNavigation.ngeFourcols .ngeFirst img.ngeSmall {
+      display: none !important; }
+    .ngeMainWrapper.ngeCrossCategoryNavigation.ngeFourcols ul {
+      width: 67.7% !important;
+      margin-right: 4.8% !important; }
+      .ngeMainWrapper.ngeCrossCategoryNavigation.ngeFourcols ul li {
+        width: 20% !important; }
+  .ngeMainWrapper.ngeFilter .ngeHeader {
+    padding: 5px 2px 0 !important;
+    height: 36px !important; }
+  .ngeMainWrapper.ngeFilter .ngeContent > ul > li + li {
+    border-top: 3px solid #ffd500 !important; }
+  .ngeMainWrapper.ngeFilter .ngeContent > ul > li {
+    padding: 9px 7px !important; }
+  .ngeMainWrapper.ngeFilter .ngeContent > ul .ngeHead {
+    font-size: 14px !important;
+    font-weight: bold !important;
+    margin-bottom: 9px !important; }
+  .ngeMainWrapper.ngeFilter .ngeChoises .ngeChoise {
+    margin-bottom: 6px !important; }
+    .ngeMainWrapper.ngeFilter .ngeChoises .ngeChoise .ngeLabel {
+      font-size: 12px !important;
+      position: relative !important;
+      padding-left: 23px !important;
+      display: block !important; }
+    .ngeMainWrapper.ngeFilter .ngeChoises .ngeChoise .ngeCheckbox {
+      margin: 0 8px 0 0 !important;
+      position: absolute !important;
+      top: 2px !important;
+      left: 0px !important; }
+  .ngeMainWrapper.ngeCarrousel .ngeSlider {
+    height: 282px !important;
+    overflow: hidden !important; }
+  .ngeMainWrapper.ngeCarrousel .ngeSliderNavigation {
+    display: inline !important;
+    position: absolute !important;
+    bottom: 7px !important;
+    right: 9px !important; }
+    .ngeMainWrapper.ngeCarrousel .ngeSliderNavigation ul {
+      display: table !important; }
+    .ngeMainWrapper.ngeCarrousel .ngeSliderNavigation .ngeLinkWrapper {
+      display: table-cell !important; }
+      .ngeMainWrapper.ngeCarrousel .ngeSliderNavigation .ngeLinkWrapper a {
+        cursor: pointer !important;
+        display: block !important;
+        background-color: #fff !important;
+        color: #000 !important;
+        width: 26px !important;
+        height: 26px !important;
+        margin: 0 3px 0 0 !important;
+        border-radius: 2px !important;
+        border: 2px solid #000 !important; }
+        .ngeMainWrapper.ngeCarrousel .ngeSliderNavigation .ngeLinkWrapper a p {
+          display: block !important;
+          text-align: center !important;
+          font-size: 16px !important;
+          font-weight: bold !important;
+          margin: 4px 0 0 0 !important; }
+      .ngeMainWrapper.ngeCarrousel .ngeSliderNavigation .ngeLinkWrapper a.ngeActive {
+        background-color: #000 !important;
+        border: 2px solid #fff !important;
+        color: #fff !important; }
+  .ngeMainWrapper.ngeCarrousel .ngeSliderWrapper {
+    height: 282px !important; }
+    .ngeMainWrapper.ngeCarrousel .ngeSliderWrapper .ngeSlide {
+      position: relative !important;
+      font-size: 100% !important; }
+    .ngeMainWrapper.ngeCarrousel .ngeSliderWrapper .ngeContentsection {
+      position: absolute !important;
+      width: 475px !important;
+      left: 50px !important;
+      bottom: 80px !important;
+      text-align: left !important;
+      color: #fff !important; }
+  .ngeMainWrapper.ngeAllThemesAsText .ngeHeader {
+    height: 40px !important;
+    padding: 3px 5px 0 16px !important; }
+  .ngeMainWrapper.ngeAllThemesAsText .ngeContent {
+    padding: 10px !important; }
+  .ngeMainWrapper.ngeAllThemesAsText li.ngeThemes {
+    float: left !important;
+    width: 25% !important; }
+    .ngeMainWrapper.ngeAllThemesAsText li.ngeThemes ul {
+      padding: 1px 10px !important;
+      font-size: 11px !important; }
+      .ngeMainWrapper.ngeAllThemesAsText li.ngeThemes ul li {
+        height: 16px !important; }
+      .ngeMainWrapper.ngeAllThemesAsText li.ngeThemes ul a {
+        text-decoration: underline !important; }
+    .ngeMainWrapper.ngeAllThemesAsText li.ngeThemes.ngeLast {
+      font-weight: bold !important; }
+  .ngeMainWrapper.ngeHeaderTypes {
+    height: 185px !important;
+    background-color: #ffd500 !important;
+    background-repeat: no-repeat !important;
+    background-position: center center !important;
+    background-size: cover !important; }
+    .ngeMainWrapper.ngeHeaderTypes .ngeInner {
+      height: 100% !important;
+      position: relative !important;
+      background-repeat: no-repeat !important; }
+  .ngeMainWrapper.ngeThemeHeader {
+    background-image: url("../gfx/ThemeHeader/background4cols.png") !important; }
+    .ngeMainWrapper.ngeThemeHeader .ngeInner {
+      background-image: url("../gfx/HeaderTypes/logo.png") !important;
+      background-position: 17px 16px !important; }
+      .ngeMainWrapper.ngeThemeHeader .ngeInner .ngeHeadWrapper {
+        position: absolute !important;
+        left: 102px !important;
+        top: 19px !important; }
+        .ngeMainWrapper.ngeThemeHeader .ngeInner .ngeHeadWrapper h6 {
+          font-size: 50px !important;
+          font-weight: bold !important; }
+      .ngeMainWrapper.ngeThemeHeader .ngeInner .ngeTextWrapper {
+        position: absolute !important;
+        left: 105px !important;
+        top: 74px !important;
+        width: 212px !important;
+        height: 96px !important; }
+        .ngeMainWrapper.ngeThemeHeader .ngeInner .ngeTextWrapper p {
+          font-size: 11px !important; }
+      .ngeMainWrapper.ngeThemeHeader .ngeInner .youtube_wrapper {
+        position: absolute !important;
+        top: 10px !important;
+        right: 40px !important;
+        top: 16px !important; }
+    .ngeMainWrapper.ngeThemeHeader.ngeThreecols {
+      background-image: url("../gfx/ThemeHeader/background3cols.png") !important; }
+      .ngeMainWrapper.ngeThemeHeader.ngeThreecols .ngeInner {
+        background-position: 15px 16px !important; }
+        .ngeMainWrapper.ngeThemeHeader.ngeThreecols .ngeInner .ngeTextWrapper, .ngeMainWrapper.ngeThemeHeader.ngeThreecols .ngeInner .ngeHeadWrapper {
+          left: 103px !important; }
+        .ngeMainWrapper.ngeThemeHeader.ngeThreecols .ngeInner .youtube_wrapper {
+          display: none !important; }
+  .ngeMainWrapper.ngeAgeHeader.Age1-4 {
+    background-image: url("../gfx/AgeHeader/background4Cols1-4.png") !important; }
+  .ngeMainWrapper.ngeAgeHeader.Age5-6 {
+    background-image: url("../gfx/AgeHeader/background4Cols5-6.png") !important; }
+  .ngeMainWrapper.ngeAgeHeader.Age7-8 {
+    background-image: url("../gfx/AgeHeader/background4Cols7-8.png") !important; }
+  .ngeMainWrapper.ngeAgeHeader.Age9-11 {
+    background-image: url("../gfx/AgeHeader/background4Cols9-11.png") !important; }
+  .ngeMainWrapper.ngeAgeHeader.Age12plus {
+    background-image: url("../gfx/AgeHeader/background4Cols12plus.png") !important; }
+  .ngeMainWrapper.ngeAgeHeader.Age1-4 .ngeInner {
+    background-image: url("../gfx/AgeHeader/visual4Cols1-4.png") !important; }
+  .ngeMainWrapper.ngeAgeHeader.Age5-6 .ngeInner {
+    background-image: url("../gfx/AgeHeader/visual4Cols5-6.png") !important; }
+  .ngeMainWrapper.ngeAgeHeader.Age7-8 .ngeInner {
+    background-image: url("../gfx/AgeHeader/visual4Cols7-8.png") !important; }
+  .ngeMainWrapper.ngeAgeHeader.Age9-11 .ngeInner {
+    background-image: url("../gfx/AgeHeader/visual4Cols9-11.png") !important; }
+  .ngeMainWrapper.ngeAgeHeader.Age12plus .ngeInner {
+    background-image: url("../gfx/AgeHeader/visual4Cols12plus.png") !important; }
+  .ngeMainWrapper.ngeAgeHeader .ngeInner {
+    background-position: center right !important; }
+    .ngeMainWrapper.ngeAgeHeader .ngeInner .logo {
+      position: absolute !important;
+      left: 17px !important;
+      top: 16px !important;
+      width: 68px !important;
+      height: 68px !important;
+      background-image: url("../gfx/HeaderTypes/logo.png") !important;
+      background-repeat: no-repeat !important; }
+    .ngeMainWrapper.ngeAgeHeader .ngeInner .ngeHeadWrapper {
+      position: absolute !important;
+      left: 102px !important;
+      top: 13px !important; }
+      .ngeMainWrapper.ngeAgeHeader .ngeInner .ngeHeadWrapper h6 {
+        font-size: 50px !important;
+        font-weight: bold !important; }
+    .ngeMainWrapper.ngeAgeHeader .ngeInner .ngeTextWrapper {
+      position: absolute !important;
+      left: 105px !important;
+      top: 74px !important;
+      width: 25% !important;
+      height: 96px !important; }
+      .ngeMainWrapper.ngeAgeHeader .ngeInner .ngeTextWrapper p {
+        font-size: 11px !important; }
+  .ngeMainWrapper.ngeAgeHeader.ngeThreecols .ngeInner .ngeTextWrapper {
+    width: 29% !important; }
+  .ngeMainWrapper.ngeAgeHeader.ngeThreecols.Age1-4 {
+    background-image: url("../gfx/AgeHeader/background3Cols1-4.png") !important; }
+  .ngeMainWrapper.ngeAgeHeader.ngeThreecols.Age5-6 {
+    background-image: url("../gfx/AgeHeader/background3Cols5-6.png") !important; }
+  .ngeMainWrapper.ngeAgeHeader.ngeThreecols.Age7-8 {
+    background-image: url("../gfx/AgeHeader/background3Cols7-8.png") !important; }
+  .ngeMainWrapper.ngeAgeHeader.ngeThreecols.Age9-11 {
+    background-image: url("../gfx/AgeHeader/background3Cols9-11.png") !important; }
+  .ngeMainWrapper.ngeAgeHeader.ngeThreecols.Age12plus {
+    background-image: url("../gfx/AgeHeader/background3Cols12plus.png") !important; }
+  .ngeMainWrapper.ngeAgeHeader.ngeThreecols.Age1-4 .ngeInner {
+    background-image: url("../gfx/AgeHeader/visual3Cols1-4.png") !important; }
+  .ngeMainWrapper.ngeAgeHeader.ngeThreecols.Age5-6 .ngeInner {
+    background-image: url("../gfx/AgeHeader/visual3Cols5-6.png") !important; }
+  .ngeMainWrapper.ngeAgeHeader.ngeThreecols.Age7-8 .ngeInner {
+    background-image: url("../gfx/AgeHeader/visual3Cols7-8.png") !important; }
+  .ngeMainWrapper.ngeAgeHeader.ngeThreecols.Age9-11 .ngeInner {
+    background-image: url("../gfx/AgeHeader/visual3Cols9-11.png") !important; }
+  .ngeMainWrapper.ngeAgeHeader.ngeThreecols.Age12plus .ngeInner {
+    background-image: url("../gfx/AgeHeader/visual3Cols12plus.png") !important; }
+  .ngeMainWrapper.ngeActivityHeader {
+    background-image: url("../gfx/ActivityHeader/background.png") !important; }
+    .ngeMainWrapper.ngeActivityHeader .ngeInner {
+      background-image: url("../gfx/ActivityHeader/visual.png") !important;
+      background-position: center right !important; }
+      .ngeMainWrapper.ngeActivityHeader .ngeInner .ngeLogo {
+        position: absolute !important;
+        left: 17px !important;
+        top: 16px !important;
+        width: 68px !important;
+        height: 68px !important;
+        background-image: url("../gfx/HeaderTypes/logo.png") !important;
+        background-repeat: no-repeat !important; }
+      .ngeMainWrapper.ngeActivityHeader .ngeInner .ngeHead {
+        position: absolute !important;
+        left: 110px !important;
+        top: 34px !important;
+        width: 200px !important;
+        height: 117px !important;
+        background-image: url("../gfx/ActivityHeader/headtext.png") !important;
+        background-repeat: no-repeat !important; }
+  .ngeMainWrapper.ngeActivitySectionButton {
+    background-color: #ffd500 !important;
+    width: 100% !important;
+    height: 87px !important;
+    padding: 0 !important; }
+    .ngeMainWrapper.ngeActivitySectionButton .ngeFirst {
+      float: left !important;
+      height: 87px !important;
+      text-align: center !important; }
+    .ngeMainWrapper.ngeActivitySectionButton ul {
+      height: 87px !important;
+      float: left !important; }
+      .ngeMainWrapper.ngeActivitySectionButton ul li {
+        float: left !important;
+        width: 33.33% !important;
+        position: relative !important; }
+        .ngeMainWrapper.ngeActivitySectionButton ul li img {
+          float: left !important; }
+        .ngeMainWrapper.ngeActivitySectionButton ul li p {
+          position: absolute !important;
+          top: 36px !important;
+          left: 93px !important;
+          display: block !important;
+          width: 50px !important;
+          font-family: Homenaje, Charcoal, sans-serif !important;
+          text-transform: uppercase !important;
+          font-size: 12px !important;
+          font-weight: bold !important;
+          line-height: 100% !important; }
+    .ngeMainWrapper.ngeActivitySectionButton.ngeThreecols .ngeFirst {
+      width: 20.7% !important; }
+      .ngeMainWrapper.ngeActivitySectionButton.ngeThreecols .ngeFirst img {
+        margin: 5px 0 0 1% !important; }
+    .ngeMainWrapper.ngeActivitySectionButton.ngeThreecols .ngeFirst img.ngeLarge {
+      display: none !important; }
+    .ngeMainWrapper.ngeActivitySectionButton.ngeThreecols ul {
+      width: 78.2% !important;
+      margin-right: 0% !important; }
+    .ngeMainWrapper.ngeActivitySectionButton.ngeFourcols .ngeFirst {
+      width: 27.3% !important; }
+      .ngeMainWrapper.ngeActivitySectionButton.ngeFourcols .ngeFirst img {
+        margin: 14px 8% 0 0 !important; }
+    .ngeMainWrapper.ngeActivitySectionButton.ngeFourcols .ngeFirst img.ngeSmall {
+      display: none !important; }
+    .ngeMainWrapper.ngeActivitySectionButton.ngeFourcols ul {
+      width: 72.7% !important;
+      margin-right: 0% !important; }
+  .ngeMainWrapper.ngeActivitySection {
+    background-color: #ffd500 !important;
+    background-image: url("../gfx/ActivitySection/background.png") !important;
+    background-repeat: no-repeat !important;
+    background-position: center center !important;
+    background-size: cover !important;
+    width: 100% !important;
+    height: 185px !important;
+    padding: 0 !important; }
+    .ngeMainWrapper.ngeActivitySection .ngeFirst {
+      float: left !important;
+      height: 185px !important;
+      text-align: center !important;
+      width: 27% !important; }
+      .ngeMainWrapper.ngeActivitySection .ngeFirst img {
+        margin: 14px 8% 0 0 !important; }
+    .ngeMainWrapper.ngeActivitySection ul {
+      height: 185px !important;
+      float: left !important;
+      width: 73% !important;
+      margin-right: 0% !important; }
+      .ngeMainWrapper.ngeActivitySection ul li {
+        float: left !important;
+        width: 25% !important; }
+        .ngeMainWrapper.ngeActivitySection ul li p {
+          display: block !important;
+          width: 148px !important;
+          font-family: Homenaje, Charcoal, sans-serif !important;
+          text-align: center !important;
+          text-transform: uppercase !important;
+          font-size: 14px !important;
+          font-weight: bold !important;
+          line-height: 100% !important;
+          margin: -33px 0 0 !important; }
+  .ngeMainWrapper .rs-carousel-mask {
+    overflow: hidden !important; }
+  .ngeMainWrapper .rs-carousel-runner {
+    position: relative !important; }
+  .ngeMainWrapper .rs-carousel-horizontal .rs-carousel-item {
+    float: left !important; }
+  .ngeMainWrapper .rs-carousel-mask {
+    position: relative !important; }
+  .ngeMainWrapper .rs-carousel-runner {
+    -moz-transform: translate3d(0, 0, 0) !important;
+    -webkit-transform: translate3d(0, 0, 0) !important;
+    -o-transform: translate3d(0, 0, 0) !important;
+    -ms-transform: translate3d(0, 0, 0) !important;
+    transform: translate3d(0, 0, 0) !important; }
+  .ngeMainWrapper .rs-carousel-transition .rs-carousel-runner {
+    -moz-transition: -moz-transform .400s ease !important;
+    -webkit-transition: -webkit-transform .400s ease !important;
+    -o-transition: -o-transform .400s ease !important;
+    -ms-transition: -ms-transform .400s ease !important;
+    transition: transform .400s ease !important; }
+  .ngeMainWrapper .ui-helper-hidden {
+    display: none; }
+  .ngeMainWrapper .ui-helper-hidden-accessible {
+    border: 0 !important;
+    clip: rect(0 0 0 0) !important;
+    height: 1px !important;
+    margin: -1px !important;
+    overflow: hidden !important;
+    padding: 0 !important;
+    position: absolute !important;
+    width: 1px; }
+  .ngeMainWrapper .ui-helper-reset {
+    margin: 0 !important;
+    padding: 0 !important;
+    border: 0 !important;
+    outline: 0 !important;
+    line-height: 1.3 !important;
+    text-decoration: none !important;
+    font-size: 100% !important;
+    list-style: none; }
+  .ngeMainWrapper .ui-helper-clearfix:before, .ngeMainWrapper .ui-helper-clearfix:after {
+    content: "" !important;
+    display: table !important;
+    border-collapse: collapse; }
+  .ngeMainWrapper .ui-helper-clearfix:after {
+    clear: both; }
+  .ngeMainWrapper .ui-helper-clearfix {
+    min-height: 0; }
+  .ngeMainWrapper .ui-helper-zfix {
+    width: 100% !important;
+    height: 100% !important;
+    top: 0 !important;
+    left: 0 !important;
+    position: absolute !important;
+    opacity: 0 !important;
+    filter: Alpha(Opacity=0); }
+  .ngeMainWrapper .ui-front {
+    z-index: 100; }
+  .ngeMainWrapper .ui-state-disabled {
+    cursor: default !important; }
+  .ngeMainWrapper .ui-icon {
+    display: block !important;
+    text-indent: -99999px !important;
+    overflow: hidden !important;
+    background-repeat: no-repeat; }
+  .ngeMainWrapper .ui-widget-overlay {
+    position: fixed !important;
+    top: 0 !important;
+    left: 0 !important;
+    width: 100% !important;
+    height: 100%; }
+  .ngeMainWrapper .ui-slider {
+    position: relative !important;
+    text-align: left; }
+  .ngeMainWrapper .ui-slider .ui-slider-handle {
+    position: absolute !important;
+    z-index: 2 !important;
+    width: 1.2em !important;
+    height: 1.2em !important;
+    cursor: default; }
+  .ngeMainWrapper .ui-slider .ui-slider-range {
+    position: absolute !important;
+    z-index: 1 !important;
+    font-size: .7em !important;
+    display: block !important;
+    border: 0 !important;
+    background-position: 0 0; }
+  .ngeMainWrapper .ui-slider.ui-state-disabled .ui-slider-handle, .ngeMainWrapper .ui-slider.ui-state-disabled .ui-slider-range {
+    filter: inherit; }
+  .ngeMainWrapper .ui-slider-horizontal {
+    height: .8em; }
+  .ngeMainWrapper .ui-slider-horizontal .ui-slider-handle {
+    top: -.3em !important;
+    margin-left: -.6em; }
+  .ngeMainWrapper .ui-slider-horizontal .ui-slider-range {
+    top: 0 !important;
+    height: 100%; }
+  .ngeMainWrapper .ui-slider-horizontal .ui-slider-range-min {
+    left: 0; }
+  .ngeMainWrapper .ui-slider-horizontal .ui-slider-range-max {
+    right: 0; }
+  .ngeMainWrapper .ui-slider-vertical {
+    width: .8em !important;
+    height: 100px; }
+  .ngeMainWrapper .ui-slider-vertical .ui-slider-handle {
+    left: -.3em !important;
+    margin-left: 0 !important;
+    margin-bottom: -.6em; }
+  .ngeMainWrapper .ui-slider-vertical .ui-slider-range {
+    left: 0 !important;
+    width: 100%; }
+  .ngeMainWrapper .ui-slider-vertical .ui-slider-range-min {
+    bottom: 0; }
+  .ngeMainWrapper .ui-slider-vertical .ui-slider-range-max {
+    top: 0; }
+  .ngeMainWrapper .ngeSwipe {
+    overflow: hidden;
+    visibility: hidden;
+    position: relative; }
+  .ngeMainWrapper .ngeSwipeWrap {
+    overflow: hidden;
+    position: relative; }
+  .ngeMainWrapper .ngeSwipeWrap > li {
+    float: left;
+    width: 100%;
+    position: relative; }
+

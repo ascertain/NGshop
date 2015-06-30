@@ -1,0 +1,8 @@
+.commenting_plugin_icon_tab_comments {
+    background: url(/plugins/RatingsComments/static/img/bullet_star.png) left center no-repeat !important;
+}
+
+.rating_plugin_star {
+    background: url(/plugins/RatingsComments/static/img/star.png) left center no-repeat !important;
+    padding: 0 0 0 20px !important;
+}

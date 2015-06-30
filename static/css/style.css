@@ -1,0 +1,63 @@
+/* Bootstrap override CSS Starts Here */
+.theme-div{width: 20%;display: inline-block;}
+.ngeContent{  border: 3px solid grey!important;
+  -webkit-box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.4)!important;
+  -moz-box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.4)!important;
+  box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.4!important);
+}
+.lego-global-footer{margin-top: 0!important;}
+.background-color{background-color:white}
+.mainbody{margin-top:10px;}
+.navbar{margin-bottom: 5px;}
+.menu-gradient{padding: 10px !important;
+  display: block !important; font-size: 27px !important;
+  line-height: 100% !important;
+  text-transform: uppercase !important;
+  font-weight: bold !important;
+    margin-top: 0!important;
+  }
+.nopadding {
+   padding: 0 ;
+   margin: 0 ;
+}
+#navbar{padding: 0;}
+/* Bootstrap override CSS Ends Here */
+
+/*Font Face Starts Here */
+
+/*Font Face Ends Here */
+@font-face {
+  font-family: 'LEGO-Chalet60-Regular';
+  src: url('../fonts/LEGO-Chalet60-Regular.eot'); /* IE9 Compat Modes */
+  src: url('../fonts/LEGO-Chalet60-Regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       /*url('../fonts/LEGO-Chalet60-Regular.woff2') format('woff2'), /* Super Modern Browsers */ 
+       url('../fonts/LEGO-Chalet60-Regular.woff') format('woff'), /* Pretty Modern Browsers */
+       /*url('../fonts/LEGO-Chalet60-Regular.ttf')  format('truetype'), /* Safari, Android, iOS */
+       url('../fonts/LEGO-Chalet60-Regular.svg#LEGO-Chalet60-Regular') format('svg'); /* Legacy iOS */
+}
+.font-LEGO-Chalet60-Regular{
+	font-family: 'LEGO-Chalet60-Regular', Arial, sans-serif;
+}
+/* Body CSS Starts Here */
+body{font-size: 14px;  background: url('/static/images/nge2.jpg');
+  background-attachment: fixed;
+  background-position: 50% 0%;
+  background-repeat: no-repeat;}
+.shopping-btn{
+	margin: 8px 8px 8px 0;
+}
+.list-group-item > h3{margin-top:0;}
+.menu-gradient{
+margin-bottom:0;
+	background: -webkit-linear-gradient(top, rgb(255, 212, 0) 0%, rgb(248, 173, 0) 98%, rgb(248, 169, 0) 100%);
+	background: -o-linear-gradient(top, rgb(255, 212, 0) 0%, rgb(248, 173, 0) 98%, rgb(248, 169, 0) 100%);
+	background: -ms-linear-gradient(top, rgb(255, 212, 0) 0%, rgb(248, 173, 0) 98%, rgb(248, 169, 0) 100%);
+	background: -moz-linear-gradient(top, rgb(255, 212, 0) 0%, rgb(248, 173, 0) 98%, rgb(248, 169, 0) 100%);
+	background: linear-gradient(to bottom, rgb(255, 212, 0) 0%, rgb(248, 173, 0) 98%, rgb(248, 169, 0) 100%);
+}
+.menu-font-size{
+	font-size: 2.143em;
+}
+.ngeMainWrapper.ngeAgeCenter li .ngeInner{overflow:hidden;}
+/**{border:1px solid #000;}*/
+/* Body CSS Ends Here */

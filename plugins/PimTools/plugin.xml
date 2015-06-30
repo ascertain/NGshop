@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<zend-config xmlns:zf="http://framework.zend.com/xml/zend-config-xml/1.0/">
+  <plugin>
+    <pluginName>PimTools</pluginName>
+    <pluginNiceName>Pim-Tool Addons</pluginNiceName>
+    <pluginIcon></pluginIcon>
+    <pluginDescription></pluginDescription>
+    <pluginClassName>PimTools_Plugin</pluginClassName>
+    <pluginIncludePaths>
+      <path>/PimTools/lib</path>
+      <path>/PimTools/controllers</path>
+      <path>/PimTools/models</path>
+    </pluginIncludePaths>
+    <pluginNamespaces>
+      <namespace>PimTools</namespace>
+    </pluginNamespaces>
+    <pluginJsPaths>
+        <path>/PimTools/static/js/plugin.js</path>
+        <path>/PimTools/static/js/detailwindow.js</path>
+        <path>/PimTools/static/js/importreport.js</path>
+    </pluginJsPaths>
+    <pluginCssPaths>
+       <path>/PimTools/static/css/admin.css</path>
+    </pluginCssPaths>
+  </plugin>
+</zend-config>
+ 

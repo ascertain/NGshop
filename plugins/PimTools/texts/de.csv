@@ -1,0 +1,24 @@
+pimtools_import_report, Pim-Tools Import Report
+pimtools_import_report_import_date, Importdatum
+pimtools_import_report_action, Aktion
+pimtools_import_report_type, Typ
+pimtools_import_report_productid, Produkt ID
+pimtools_import_report_productpath, Produkt Pfad
+pimtools_import_report_state, Bearbeitet
+pimtools_import_report_processed_date, Bearbeitungsdatum
+pimtools_import_report_user, Benutzer
+pimtools_import_display_results, Ergebnis anzeigen
+pimtools_import_report_no_search_results, Keine Einträge gefunden
+pimtools_import_report_search_form, Suchformular
+pimtools_import_report_reset, Zurücksetzen
+pimtools_import_report_search, Suchen
+pimtools_import_report_search_from, Von Datum
+pimtools_import_report_search_to, Bis Datum
+pimtools_import_report_all, Alle
+pimtools_import_report_not_processed, Nicht Bearbeitet
+pimtools_import_report_processed, Bearbeitet
+pimtools_import_report_message, Message
+pimtools_import_report_mark_as_processed, Als bearbeitet markieren
+pimtools, Pim- Tools
+pimtools_import_detailinformation, Detail Information
+pimtools_import_report_component, Komponente

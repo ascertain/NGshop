@@ -1,0 +1,467 @@
+[09-Jun-2015 09:33:27 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[09-Jun-2015 09:33:27 Europe/Berlin] PHP Fatal error:  Class 'OnlineShop_Framework_Factory' not found in C:\wamp\www\ngeshopnewlego\website\lib\Website\Controller\Action.php on line 44
+[09-Jun-2015 09:33:38 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[09-Jun-2015 09:36:00 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[09-Jun-2015 09:37:06 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[09-Jun-2015 09:41:40 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[09-Jun-2015 09:42:56 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[09-Jun-2015 09:45:29 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[09-Jun-2015 11:22:54 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[09-Jun-2015 11:23:33 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[09-Jun-2015 11:33:48 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[09-Jun-2015 11:35:35 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[09-Jun-2015 11:36:51 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[09-Jun-2015 11:38:31 Europe/Berlin] PHP Warning:  filesize(): stat failed for C:\wamp\www\ngeshopnewlego/website/var/log/online-shop-sql.log in C:\wamp\www\ngeshopnewlego\plugins\OnlineShop\lib\OnlineShop\Plugin.php on line 335
+[09-Jun-2015 11:44:25 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[09-Jun-2015 12:00:39 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[09-Jun-2015 12:00:39 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[09-Jun-2015 12:00:41 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[09-Jun-2015 12:00:42 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[09-Jun-2015 12:18:21 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[09-Jun-2015 12:19:19 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[09-Jun-2015 12:19:25 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[09-Jun-2015 12:26:45 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[09-Jun-2015 12:31:13 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[09-Jun-2015 12:31:48 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[09-Jun-2015 12:33:29 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[09-Jun-2015 12:33:38 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[09-Jun-2015 12:40:34 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[09-Jun-2015 12:41:41 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[09-Jun-2015 12:42:46 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[09-Jun-2015 12:43:59 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[09-Jun-2015 12:45:49 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[09-Jun-2015 12:54:19 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[09-Jun-2015 12:54:51 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[09-Jun-2015 12:55:49 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[09-Jun-2015 12:59:33 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[09-Jun-2015 12:59:45 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[09-Jun-2015 13:00:42 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[09-Jun-2015 13:01:01 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[09-Jun-2015 13:04:20 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[09-Jun-2015 13:04:29 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[09-Jun-2015 13:04:46 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[09-Jun-2015 13:04:59 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[09-Jun-2015 13:06:20 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[09-Jun-2015 13:06:34 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[09-Jun-2015 13:06:49 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[09-Jun-2015 13:06:54 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[09-Jun-2015 13:33:06 Europe/Berlin] PHP Fatal error:  Call to a member function getId() on a non-object in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\lib\RatingsComments\Plugin.php on line 203
+[09-Jun-2015 13:33:09 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[09-Jun-2015 13:33:11 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[09-Jun-2015 13:36:55 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[09-Jun-2015 13:40:01 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[09-Jun-2015 13:44:10 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[09-Jun-2015 13:47:47 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[09-Jun-2015 13:49:53 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[09-Jun-2015 13:50:19 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[09-Jun-2015 13:51:37 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[09-Jun-2015 13:53:07 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[09-Jun-2015 13:58:06 Europe/Berlin] PHP Warning:  array_diff_assoc(): Argument #1 is not an array in C:\wamp\www\ngeshopnewlego\pimcore\modules\admin\controllers\SettingsController.php on line 341
+[09-Jun-2015 13:58:06 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in C:\wamp\www\ngeshopnewlego\pimcore\modules\admin\controllers\SettingsController.php on line 343
+[09-Jun-2015 13:58:38 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[09-Jun-2015 13:58:40 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[09-Jun-2015 13:58:41 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[09-Jun-2015 13:58:42 Europe/Berlin] PHP Fatal error:  Call to a member function getId() on a non-object in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\lib\RatingsComments\Plugin.php on line 203
+[09-Jun-2015 13:58:42 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[09-Jun-2015 13:59:50 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[09-Jun-2015 14:01:45 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[09-Jun-2015 14:13:06 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[09-Jun-2015 14:15:56 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[09-Jun-2015 14:32:34 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[09-Jun-2015 14:32:35 Europe/Berlin] PHP Fatal error:  Call to a member function getId() on a non-object in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\lib\RatingsComments\Plugin.php on line 203
+[09-Jun-2015 14:32:36 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[09-Jun-2015 14:32:36 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[09-Jun-2015 14:32:37 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[09-Jun-2015 14:33:26 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[09-Jun-2015 14:46:11 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[09-Jun-2015 14:59:14 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[09-Jun-2015 15:01:03 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[09-Jun-2015 15:06:28 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[09-Jun-2015 15:08:39 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[09-Jun-2015 15:12:02 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[09-Jun-2015 15:12:30 Europe/Berlin] PHP Fatal error:  Cannot declare class Pimcore\Model\Object\Fieldcollection\Data\Object because the name is already in use in C:\wamp\www\ngeshopnewlego\website\var\classes\Object\Fieldcollection\Data\Object.php on line 14
+[09-Jun-2015 15:13:24 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[09-Jun-2015 15:13:46 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[09-Jun-2015 15:13:56 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[09-Jun-2015 15:14:08 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[09-Jun-2015 15:15:40 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[09-Jun-2015 15:18:41 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[09-Jun-2015 15:19:47 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[09-Jun-2015 15:21:00 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[09-Jun-2015 15:22:42 Europe/Berlin] PHP Fatal error:  Cannot declare class Pimcore\Model\Object\Fieldcollection\Data\Object because the name is already in use in C:\wamp\www\ngeshopnewlego\website\var\classes\Object\Fieldcollection\Data\Object.php on line 14
+[09-Jun-2015 15:22:47 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[09-Jun-2015 15:23:02 Europe/Berlin] PHP Fatal error:  Cannot declare class Pimcore\Model\Object\Fieldcollection\Data\Object because the name is already in use in C:\wamp\www\ngeshopnewlego\website\var\classes\Object\Fieldcollection\Data\Object.php on line 14
+[09-Jun-2015 15:23:41 Europe/Berlin] PHP Fatal error:  Cannot declare class Pimcore\Model\Object\Fieldcollection\Data\Object because the name is already in use in C:\wamp\www\ngeshopnewlego\website\var\classes\Object\Fieldcollection\Data\Object.php on line 14
+[09-Jun-2015 15:23:51 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[09-Jun-2015 15:23:57 Europe/Berlin] PHP Fatal error:  Cannot declare class Pimcore\Model\Object\Fieldcollection\Data\Object because the name is already in use in C:\wamp\www\ngeshopnewlego\website\var\classes\Object\Fieldcollection\Data\Object.php on line 14
+[09-Jun-2015 15:24:19 Europe/Berlin] PHP Fatal error:  Cannot declare class Pimcore\Model\Object\Fieldcollection\Data\Object because the name is already in use in C:\wamp\www\ngeshopnewlego\website\var\classes\Object\Fieldcollection\Data\Object.php on line 14
+[09-Jun-2015 15:24:23 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[09-Jun-2015 15:24:28 Europe/Berlin] PHP Fatal error:  Cannot declare class Pimcore\Model\Object\Fieldcollection\Data\Object because the name is already in use in C:\wamp\www\ngeshopnewlego\website\var\classes\Object\Fieldcollection\Data\Object.php on line 14
+[09-Jun-2015 15:26:40 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[09-Jun-2015 15:27:00 Europe/Berlin] PHP Fatal error:  Cannot declare class Pimcore\Model\Object\Fieldcollection\Data\Object because the name is already in use in C:\wamp\www\ngeshopnewlego\website\var\classes\Object\Fieldcollection\Data\Object.php on line 14
+[09-Jun-2015 15:27:09 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[09-Jun-2015 15:27:13 Europe/Berlin] PHP Fatal error:  Cannot declare class Pimcore\Model\Object\Fieldcollection\Data\Object because the name is already in use in C:\wamp\www\ngeshopnewlego\website\var\classes\Object\Fieldcollection\Data\Object.php on line 14
+[09-Jun-2015 15:28:41 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[09-Jun-2015 15:30:55 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[09-Jun-2015 15:38:39 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[09-Jun-2015 15:39:03 Europe/Berlin] PHP Fatal error:  Call to a member function addCondition() on a non-object in C:\wamp\www\ngeshopnewlego\plugins\OnlineShop\lib\OnlineShop\Framework\FilterService.php on line 116
+[09-Jun-2015 15:42:12 Europe/Berlin] PHP Fatal error:  Declaration of OnlineShop_Framework_FilterService_AgeFilter::getFilterFrontend() must be compatible with OnlineShop_Framework_FilterService_AbstractFilterType::getFilterFrontend(OnlineShop_Framework_AbstractFilterDefinitionType $filterDefinition, OnlineShop_Framework_IProductList $productList, $currentFilter) in C:\wamp\www\ngeshopnewlego\plugins\OnlineShop\lib\OnlineShop\Framework\FilterService\AgeFilter.php on line 139
+[09-Jun-2015 15:43:06 Europe/Berlin] PHP Fatal error:  Call to a member function getChilds() on a non-object in C:\wamp\www\ngeshopnewlego\website\models\Website\ShopCategory.php on line 8
+[09-Jun-2015 15:44:51 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[09-Jun-2015 15:45:19 Europe/Berlin] PHP Fatal error:  Call to a member function getChilds() on a non-object in C:\wamp\www\ngeshopnewlego\website\models\Website\ShopCategory.php on line 8
+[09-Jun-2015 15:45:36 Europe/Berlin] PHP Fatal error:  Call to a member function getChilds() on a non-object in C:\wamp\www\ngeshopnewlego\website\models\Website\ShopCategory.php on line 8
+[09-Jun-2015 15:46:07 Europe/Berlin] PHP Fatal error:  Call to a member function getChilds() on a non-object in C:\wamp\www\ngeshopnewlego\website\models\Website\ShopCategory.php on line 8
+[09-Jun-2015 15:47:05 Europe/Berlin] PHP Fatal error:  Call to a member function getShopDetailLink() on a non-object in C:\wamp\www\ngeshopnewlego\website\views\scripts\shop\list\product.php on line 7
+[09-Jun-2015 15:54:30 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[09-Jun-2015 16:13:23 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[09-Jun-2015 16:13:27 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[09-Jun-2015 16:13:53 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[09-Jun-2015 16:14:25 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[09-Jun-2015 16:16:18 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[09-Jun-2015 16:16:27 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[09-Jun-2015 16:16:41 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[09-Jun-2015 16:16:43 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[09-Jun-2015 16:19:28 Europe/Berlin] PHP Warning:  imagedestroy() expects parameter 1 to be resource, null given in C:\wamp\www\ngeshopnewlego\pimcore\lib\Pimcore\Image\Adapter\GD.php on line 138
+[09-Jun-2015 16:21:42 Europe/Berlin] PHP Parse error:  syntax error, unexpected '}' in C:\wamp\www\ngeshopnewlego\website\models\Website\DefaultProduct.php on line 102
+[09-Jun-2015 16:22:53 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[09-Jun-2015 16:23:00 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[09-Jun-2015 16:24:25 Europe/Berlin] PHP Fatal error:  Declaration of OnlineShop_Framework_FilterService_AgeFilter::getFilterFrontend() must be compatible with OnlineShop_Framework_FilterService_AbstractFilterType::getFilterFrontend(OnlineShop_Framework_AbstractFilterDefinitionType $filterDefinition, OnlineShop_Framework_IProductList $productList, $currentFilter) in C:\wamp\www\ngeshopnewlego\plugins\OnlineShop\lib\OnlineShop\Framework\FilterService\AgeFilter.php on line 139
+[09-Jun-2015 16:30:26 Europe/Berlin] PHP Fatal error:  Declaration of OnlineShop_Framework_FilterService_AgeFilter::addCondition() must be compatible with OnlineShop_Framework_FilterService_AbstractFilterType::addCondition(OnlineShop_Framework_AbstractFilterDefinitionType $filterDefinition, OnlineShop_Framework_IProductList $productList, $currentFilter, $params, $isPrecondition = false) in C:\wamp\www\ngeshopnewlego\plugins\OnlineShop\lib\OnlineShop\Framework\FilterService\AgeFilter.php on line 139
+[09-Jun-2015 17:01:25 Europe/Berlin] PHP Fatal error:  Uncaught exception 'Zend_Controller_Dispatcher_Exception' with message 'Invalid controller specified (2)' in C:\wamp\www\ngeshopnewlego\pimcore\lib\Zend\Controller\Dispatcher\Standard.php:248
+Stack trace:
+#0 C:\wamp\www\ngeshopnewlego\pimcore\lib\Zend\Controller\Front.php(954): Zend_Controller_Dispatcher_Standard->dispatch(Object(Zend_Controller_Request_Http), Object(Zend_Controller_Response_Http))
+#1 C:\wamp\www\ngeshopnewlego\pimcore\lib\Pimcore.php(285): Zend_Controller_Front->dispatch()
+#2 C:\wamp\www\ngeshopnewlego\index.php(18): Pimcore::run()
+#3 {main}
+  thrown in C:\wamp\www\ngeshopnewlego\pimcore\lib\Zend\Controller\Dispatcher\Standard.php on line 248
+[09-Jun-2015 17:04:31 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[09-Jun-2015 17:04:36 Europe/Berlin] PHP Fatal error:  Uncaught exception 'Zend_Db_Statement_Mysqli_Exception' with message 'Mysqli prepare error: Table 'ngeshopnewecommlego.plugin_onlineshop_productindex_relations' doesn't exist' in C:\wamp\www\ngeshopnewlego\pimcore\lib\Zend\Db\Statement\Mysqli.php:77
+Stack trace:
+#0 C:\wamp\www\ngeshopnewlego\pimcore\lib\Zend\Db\Statement.php(115): Zend_Db_Statement_Mysqli->_prepare('DELETE FROM `pl...')
+#1 C:\wamp\www\ngeshopnewlego\pimcore\lib\Zend\Db\Adapter\Mysqli.php(388): Zend_Db_Statement->__construct(Object(Zend_Db_Adapter_Mysqli), 'DELETE FROM `pl...')
+#2 C:\wamp\www\ngeshopnewlego\pimcore\lib\Zend\Db\Adapter\Abstract.php(479): Zend_Db_Adapter_Mysqli->prepare('DELETE FROM `pl...')
+#3 C:\wamp\www\ngeshopnewlego\pimcore\lib\Zend\Db\Adapter\Abstract.php(664): Zend_Db_Adapter_Abstract->query('DELETE FROM `pl...')
+#4 [internal function]: Zend_Db_Adapter_Abstract->delete('plugin_onlinesh...', 'src = 29')
+#5 C:\wamp\www\ngeshopnewlego\pimcore\lib\Pimcore\Resource\Wrapper.php(230): call_user_func_array(Array, Array)
+#6 C:\wam in C:\wamp\www\ngeshopnewlego\pimcore\lib\Zend\Db\Statement\Mysqli.php on line 77
+[09-Jun-2015 17:05:58 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[09-Jun-2015 17:06:03 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[09-Jun-2015 17:06:25 Europe/Berlin] PHP Fatal error:  Uncaught exception 'Zend_Db_Statement_Mysqli_Exception' with message 'Mysqli prepare error: Table 'ngeshopnewecommlego.plugin_onlineshop_productindex_relations' doesn't exist' in C:\wamp\www\ngeshopnewlego\pimcore\lib\Zend\Db\Statement\Mysqli.php:77
+Stack trace:
+#0 C:\wamp\www\ngeshopnewlego\pimcore\lib\Zend\Db\Statement.php(115): Zend_Db_Statement_Mysqli->_prepare('DELETE FROM `pl...')
+#1 C:\wamp\www\ngeshopnewlego\pimcore\lib\Zend\Db\Adapter\Mysqli.php(388): Zend_Db_Statement->__construct(Object(Zend_Db_Adapter_Mysqli), 'DELETE FROM `pl...')
+#2 C:\wamp\www\ngeshopnewlego\pimcore\lib\Zend\Db\Adapter\Abstract.php(479): Zend_Db_Adapter_Mysqli->prepare('DELETE FROM `pl...')
+#3 C:\wamp\www\ngeshopnewlego\pimcore\lib\Zend\Db\Adapter\Abstract.php(664): Zend_Db_Adapter_Abstract->query('DELETE FROM `pl...')
+#4 [internal function]: Zend_Db_Adapter_Abstract->delete('plugin_onlinesh...', 'src = 29')
+#5 C:\wamp\www\ngeshopnewlego\pimcore\lib\Pimcore\Resource\Wrapper.php(230): call_user_func_array(Array, Array)
+#6 C:\wam in C:\wamp\www\ngeshopnewlego\pimcore\lib\Zend\Db\Statement\Mysqli.php on line 77
+[09-Jun-2015 17:07:08 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[09-Jun-2015 17:07:08 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[09-Jun-2015 17:10:41 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[09-Jun-2015 17:12:04 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[09-Jun-2015 17:12:14 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[09-Jun-2015 17:12:34 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[09-Jun-2015 17:12:45 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[09-Jun-2015 17:12:59 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[09-Jun-2015 17:19:29 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[09-Jun-2015 17:24:24 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[09-Jun-2015 17:24:53 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[09-Jun-2015 17:25:10 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[09-Jun-2015 17:27:24 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[09-Jun-2015 17:27:33 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[09-Jun-2015 17:28:24 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[09-Jun-2015 17:29:27 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[09-Jun-2015 17:30:01 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[09-Jun-2015 17:30:16 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[09-Jun-2015 17:30:39 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[09-Jun-2015 17:30:55 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[09-Jun-2015 17:34:36 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[09-Jun-2015 17:36:48 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[09-Jun-2015 17:37:43 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[09-Jun-2015 17:37:50 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[09-Jun-2015 18:13:14 Europe/Berlin] PHP Fatal error:  Cannot make non static method Pimcore\API\AbstractAPI::init() static in class Elements\OutputDataConfigToolkit\Plugin in C:\wamp\www\ngeshopnewlego\plugins\Elements_OutputDataConfigToolkit\lib\Elements\OutputDataConfigToolkit\Plugin.php on line 8
+[09-Jun-2015 18:13:33 Europe/Berlin] PHP Fatal error:  Cannot make non static method Pimcore\API\AbstractAPI::init() static in class Elements\OutputDataConfigToolkit\Plugin in C:\wamp\www\ngeshopnewlego\plugins\Elements_OutputDataConfigToolkit\lib\Elements\OutputDataConfigToolkit\Plugin.php on line 8
+[09-Jun-2015 18:13:40 Europe/Berlin] PHP Fatal error:  Cannot make non static method Pimcore\API\AbstractAPI::init() static in class Elements\OutputDataConfigToolkit\Plugin in C:\wamp\www\ngeshopnewlego\plugins\Elements_OutputDataConfigToolkit\lib\Elements\OutputDataConfigToolkit\Plugin.php on line 8
+[09-Jun-2015 18:17:49 Europe/Berlin] PHP Fatal error:  Call to undefined method Pimcore\Model\Asset\Image\Thumbnail::getThumbnail() in C:\wamp\www\ngeshopnewlego\website\models\Website\Product\Traits\Checkoutable.php on line 106
+[09-Jun-2015 18:42:43 Europe/Berlin] PHP Warning:  fopen(C:\wamp\www\ngeshopnewlego/website/var/log/legacy-class-names.log): failed to open stream: Permission denied in C:\wamp\www\ngeshopnewlego\pimcore\lib\Pimcore\Log\Simple.php on line 41
+[09-Jun-2015 18:42:43 Europe/Berlin] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in C:\wamp\www\ngeshopnewlego\pimcore\lib\Pimcore\Log\Simple.php on line 42
+[09-Jun-2015 18:42:43 Europe/Berlin] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in C:\wamp\www\ngeshopnewlego\pimcore\lib\Pimcore\Log\Simple.php on line 43
+[10-Jun-2015 07:53:09 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[10-Jun-2015 09:26:34 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[10-Jun-2015 12:57:50 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[10-Jun-2015 12:57:51 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[10-Jun-2015 13:29:25 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[10-Jun-2015 13:29:25 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[10-Jun-2015 13:51:17 Europe/Berlin] PHP Fatal error:  Uncaught exception 'Zend_Log_Exception' with message '"C:\wamp\www\ngeshopnewlego/website/var/log/debug.log" cannot be opened with mode "a"' in C:\wamp\www\ngeshopnewlego\pimcore\lib\Zend\Log\Writer\Stream.php:81
+Stack trace:
+#0 C:\wamp\www\ngeshopnewlego\pimcore\lib\Pimcore.php(393): Zend_Log_Writer_Stream->__construct('C:\\wamp\\www\\nge...')
+#1 C:\wamp\www\ngeshopnewlego\pimcore\lib\Pimcore.php(70): Pimcore::initLogger()
+#2 C:\wamp\www\ngeshopnewlego\index.php(18): Pimcore::run()
+#3 {main}
+  thrown in C:\wamp\www\ngeshopnewlego\pimcore\lib\Zend\Log\Writer\Stream.php on line 81
+[10-Jun-2015 13:51:19 Europe/Berlin] PHP Warning:  fopen(C:\wamp\www\ngeshopnewlego/website/var/log/legacy-class-names.log): failed to open stream: Permission denied in C:\wamp\www\ngeshopnewlego\pimcore\lib\Pimcore\Log\Simple.php on line 41
+[10-Jun-2015 13:51:19 Europe/Berlin] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in C:\wamp\www\ngeshopnewlego\pimcore\lib\Pimcore\Log\Simple.php on line 42
+[10-Jun-2015 13:51:19 Europe/Berlin] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in C:\wamp\www\ngeshopnewlego\pimcore\lib\Pimcore\Log\Simple.php on line 43
+[10-Jun-2015 13:51:19 Europe/Berlin] PHP Warning:  fopen(C:\wamp\www\ngeshopnewlego/website/var/log/usagelog.log): failed to open stream: Permission denied in C:\wamp\www\ngeshopnewlego\pimcore\lib\Pimcore\Log\Simple.php on line 41
+[10-Jun-2015 13:51:19 Europe/Berlin] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in C:\wamp\www\ngeshopnewlego\pimcore\lib\Pimcore\Log\Simple.php on line 42
+[10-Jun-2015 13:51:19 Europe/Berlin] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in C:\wamp\www\ngeshopnewlego\pimcore\lib\Pimcore\Log\Simple.php on line 43
+[10-Jun-2015 13:51:31 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[10-Jun-2015 13:51:32 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[10-Jun-2015 13:52:44 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[10-Jun-2015 13:53:05 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[10-Jun-2015 13:53:33 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[10-Jun-2015 14:10:11 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[10-Jun-2015 14:33:49 Europe/Berlin] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\wamp\www\ngeshopnewlego\pimcore\lib\Pimcore\Tool.php:668) in C:\wamp\www\ngeshopnewlego\pimcore\lib\Pimcore\Tool.php on line 665
+[10-Jun-2015 15:48:55 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[10-Jun-2015 15:52:18 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[10-Jun-2015 15:52:27 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[10-Jun-2015 15:52:33 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[10-Jun-2015 15:53:01 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[10-Jun-2015 15:53:36 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[10-Jun-2015 15:53:43 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[10-Jun-2015 15:54:03 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[10-Jun-2015 15:54:23 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[10-Jun-2015 15:54:38 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[10-Jun-2015 15:55:07 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[10-Jun-2015 15:55:22 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[10-Jun-2015 15:56:07 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[10-Jun-2015 15:56:18 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[10-Jun-2015 15:56:33 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[10-Jun-2015 15:56:51 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[10-Jun-2015 15:57:07 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[10-Jun-2015 15:57:29 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[10-Jun-2015 16:01:13 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[10-Jun-2015 16:14:04 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[10-Jun-2015 16:14:32 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[10-Jun-2015 16:15:09 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[10-Jun-2015 16:39:00 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[10-Jun-2015 16:40:24 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[10-Jun-2015 16:41:24 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[10-Jun-2015 16:42:28 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[10-Jun-2015 16:42:44 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[10-Jun-2015 16:43:29 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[10-Jun-2015 16:44:05 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[10-Jun-2015 16:46:11 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[10-Jun-2015 16:46:36 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[10-Jun-2015 16:50:07 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[10-Jun-2015 16:50:07 Europe/Berlin] PHP Fatal error:  Call to a member function getCarouselImage() on a non-object in C:\wamp\www\ngeshopnewlego\website\views\scripts\shop\blocks\view1.php on line 36
+[10-Jun-2015 16:50:56 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[10-Jun-2015 16:53:11 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[10-Jun-2015 16:53:25 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[10-Jun-2015 16:54:19 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[10-Jun-2015 16:57:34 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[10-Jun-2015 17:12:49 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[10-Jun-2015 17:13:49 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[10-Jun-2015 17:14:26 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[10-Jun-2015 17:15:14 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[10-Jun-2015 17:18:42 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[10-Jun-2015 17:20:40 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[10-Jun-2015 17:20:41 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[10-Jun-2015 17:20:42 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[10-Jun-2015 17:20:44 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[10-Jun-2015 17:20:45 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[10-Jun-2015 17:20:46 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[10-Jun-2015 17:20:47 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[10-Jun-2015 17:20:48 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[10-Jun-2015 17:20:48 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[10-Jun-2015 17:20:49 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[10-Jun-2015 17:20:51 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[10-Jun-2015 17:20:51 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[10-Jun-2015 17:20:52 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[10-Jun-2015 17:20:52 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[10-Jun-2015 17:20:54 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[10-Jun-2015 17:20:55 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[10-Jun-2015 17:32:37 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[10-Jun-2015 17:33:17 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[10-Jun-2015 17:33:19 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[10-Jun-2015 17:34:03 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[10-Jun-2015 17:34:20 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[10-Jun-2015 17:34:28 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[10-Jun-2015 17:34:29 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[10-Jun-2015 17:34:48 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[10-Jun-2015 17:34:50 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[10-Jun-2015 17:34:50 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[10-Jun-2015 17:37:44 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[10-Jun-2015 17:38:47 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[10-Jun-2015 17:39:22 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[10-Jun-2015 18:36:58 Europe/Berlin] PHP Fatal error:  Cannot use object of type Website_DefaultProduct as array in C:\wamp\www\ngeshopnewlego\website\views\scripts\shop\list\productstheme.php on line 3
+[10-Jun-2015 18:50:09 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[11-Jun-2015 07:19:04 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[11-Jun-2015 07:19:17 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[11-Jun-2015 07:19:22 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[11-Jun-2015 08:16:06 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[11-Jun-2015 08:16:33 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[11-Jun-2015 08:16:45 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[11-Jun-2015 08:17:29 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[11-Jun-2015 08:17:31 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[11-Jun-2015 08:21:12 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[11-Jun-2015 08:58:10 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[11-Jun-2015 08:59:05 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[11-Jun-2015 09:00:55 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[11-Jun-2015 09:00:57 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[11-Jun-2015 09:01:21 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[11-Jun-2015 09:01:26 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[11-Jun-2015 09:01:31 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[11-Jun-2015 09:01:47 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[11-Jun-2015 09:01:48 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[11-Jun-2015 09:01:49 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[11-Jun-2015 09:01:49 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[11-Jun-2015 09:01:49 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[11-Jun-2015 09:01:50 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[11-Jun-2015 09:02:11 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[11-Jun-2015 09:03:43 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[11-Jun-2015 09:04:04 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[11-Jun-2015 09:04:21 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[11-Jun-2015 09:04:33 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[11-Jun-2015 09:18:47 Europe/Berlin] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\wamp\www\ngeshopnewlego\pimcore\lib\Pimcore\Tool.php:668) in C:\wamp\www\ngeshopnewlego\pimcore\lib\Pimcore\Tool.php on line 665
+[11-Jun-2015 09:39:47 Europe/Berlin] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\wamp\www\ngeshopnewlego\pimcore\lib\Pimcore\Tool.php:668) in C:\wamp\www\ngeshopnewlego\pimcore\lib\Pimcore\Tool.php on line 665
+[11-Jun-2015 09:39:50 Europe/Berlin] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\wamp\www\ngeshopnewlego\pimcore\lib\Pimcore\Tool.php:668) in C:\wamp\www\ngeshopnewlego\pimcore\lib\Pimcore\Tool.php on line 665
+[11-Jun-2015 09:39:51 Europe/Berlin] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\wamp\www\ngeshopnewlego\pimcore\lib\Pimcore\Tool.php:668) in C:\wamp\www\ngeshopnewlego\pimcore\lib\Pimcore\Tool.php on line 665
+[11-Jun-2015 09:40:18 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[11-Jun-2015 09:40:18 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[11-Jun-2015 09:40:19 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[11-Jun-2015 09:40:19 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[11-Jun-2015 09:40:20 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[11-Jun-2015 09:46:29 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[11-Jun-2015 09:46:31 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[11-Jun-2015 09:46:47 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[11-Jun-2015 09:49:01 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[11-Jun-2015 09:50:11 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[11-Jun-2015 09:50:33 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[11-Jun-2015 09:50:47 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[11-Jun-2015 09:51:13 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[11-Jun-2015 09:51:18 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[11-Jun-2015 09:51:19 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[11-Jun-2015 09:51:45 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[11-Jun-2015 09:51:46 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[11-Jun-2015 09:52:15 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[11-Jun-2015 09:52:16 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[11-Jun-2015 09:52:18 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[11-Jun-2015 10:06:58 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[11-Jun-2015 10:07:06 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[11-Jun-2015 10:07:10 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[11-Jun-2015 10:07:15 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[11-Jun-2015 10:07:18 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[11-Jun-2015 10:07:22 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[11-Jun-2015 10:07:26 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[11-Jun-2015 10:07:30 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[11-Jun-2015 10:07:33 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[11-Jun-2015 10:33:04 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[11-Jun-2015 11:49:44 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[11-Jun-2015 11:50:47 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[11-Jun-2015 11:53:43 Europe/Berlin] PHP Fatal error:  Cannot redeclare class OnlineShop_Framework_FilterService_SelectCategory in C:\wamp\www\ngeshopnewlego\plugins\OnlineShop\lib\OnlineShop\Framework\FilterService\SelectTheme.php on line 74
+[11-Jun-2015 11:54:23 Europe/Berlin] PHP Fatal error:  Cannot redeclare class OnlineShop_Framework_FilterService_SelectCategory in C:\wamp\www\ngeshopnewlego\plugins\OnlineShop\lib\OnlineShop\Framework\FilterService\SelectTheme.php on line 74
+[11-Jun-2015 12:15:23 Europe/Berlin] PHP Fatal error:  Function name must be a string in C:\wamp\www\ngeshopnewlego\website\views\scripts\shop\filters\select_theme.php on line 86
+[11-Jun-2015 12:15:32 Europe/Berlin] PHP Fatal error:  Function name must be a string in C:\wamp\www\ngeshopnewlego\website\views\scripts\shop\filters\select_theme.php on line 86
+[11-Jun-2015 12:15:47 Europe/Berlin] PHP Fatal error:  Function name must be a string in C:\wamp\www\ngeshopnewlego\website\views\scripts\shop\filters\select_theme.php on line 86
+[11-Jun-2015 12:15:52 Europe/Berlin] PHP Fatal error:  Function name must be a string in C:\wamp\www\ngeshopnewlego\website\views\scripts\shop\filters\select_theme.php on line 86
+[11-Jun-2015 12:16:04 Europe/Berlin] PHP Fatal error:  Function name must be a string in C:\wamp\www\ngeshopnewlego\website\views\scripts\shop\filters\select_theme.php on line 86
+[11-Jun-2015 12:16:07 Europe/Berlin] PHP Fatal error:  Function name must be a string in C:\wamp\www\ngeshopnewlego\website\views\scripts\shop\filters\select_theme.php on line 86
+[11-Jun-2015 12:16:35 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[11-Jun-2015 12:16:54 Europe/Berlin] PHP Fatal error:  Function name must be a string in C:\wamp\www\ngeshopnewlego\website\views\scripts\shop\filters\select_theme.php on line 86
+[11-Jun-2015 12:17:31 Europe/Berlin] PHP Fatal error:  Function name must be a string in C:\wamp\www\ngeshopnewlego\website\views\scripts\shop\filters\select_theme.php on line 86
+[11-Jun-2015 12:17:46 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[11-Jun-2015 12:18:37 Europe/Berlin] PHP Fatal error:  Function name must be a string in C:\wamp\www\ngeshopnewlego\website\views\scripts\shop\filters\select_theme.php on line 86
+[11-Jun-2015 12:18:45 Europe/Berlin] PHP Fatal error:  Function name must be a string in C:\wamp\www\ngeshopnewlego\website\views\scripts\shop\filters\select_theme.php on line 86
+[11-Jun-2015 12:19:26 Europe/Berlin] PHP Fatal error:  Function name must be a string in C:\wamp\www\ngeshopnewlego\website\views\scripts\shop\filters\select_theme.php on line 86
+[11-Jun-2015 12:20:26 Europe/Berlin] PHP Fatal error:  Function name must be a string in C:\wamp\www\ngeshopnewlego\website\views\scripts\shop\filters\select_theme.php on line 86
+[11-Jun-2015 12:21:29 Europe/Berlin] PHP Fatal error:  Call to a member function getNavigationPath() on a non-object in C:\wamp\www\ngeshopnewlego\website\views\scripts\shop\filters\select_theme.php on line 52
+[11-Jun-2015 12:22:11 Europe/Berlin] PHP Fatal error:  Call to a member function getNavigationPath() on a non-object in C:\wamp\www\ngeshopnewlego\website\views\scripts\shop\filters\select_theme.php on line 52
+[11-Jun-2015 12:23:23 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[11-Jun-2015 12:36:30 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[11-Jun-2015 12:36:49 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[11-Jun-2015 12:36:56 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[11-Jun-2015 12:37:12 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[11-Jun-2015 12:37:16 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[11-Jun-2015 12:37:24 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[11-Jun-2015 12:37:26 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[11-Jun-2015 12:37:27 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[11-Jun-2015 12:37:29 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[11-Jun-2015 12:37:31 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[11-Jun-2015 12:37:33 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[11-Jun-2015 12:37:41 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[11-Jun-2015 12:44:55 Europe/Berlin] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\wamp\www\ngeshopnewlego\pimcore\lib\Pimcore\Tool.php:668) in C:\wamp\www\ngeshopnewlego\pimcore\lib\Pimcore\Tool.php on line 665
+[11-Jun-2015 12:44:55 Europe/Berlin] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\wamp\www\ngeshopnewlego\pimcore\lib\Pimcore\Tool.php:668) in C:\wamp\www\ngeshopnewlego\pimcore\lib\Pimcore\Tool.php on line 665
+[11-Jun-2015 12:49:14 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[11-Jun-2015 12:49:14 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[11-Jun-2015 12:49:14 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[11-Jun-2015 12:49:15 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[11-Jun-2015 12:49:15 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[11-Jun-2015 12:49:15 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[11-Jun-2015 12:49:16 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[11-Jun-2015 12:49:17 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[11-Jun-2015 12:49:17 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[11-Jun-2015 12:49:17 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[11-Jun-2015 13:08:28 Europe/Berlin] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\wamp\www\ngeshopnewlego\pimcore\lib\Pimcore\Tool.php:668) in C:\wamp\www\ngeshopnewlego\pimcore\lib\Pimcore\Tool.php on line 665
+[11-Jun-2015 13:12:21 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[11-Jun-2015 13:12:21 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[11-Jun-2015 13:12:21 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[11-Jun-2015 13:12:22 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[11-Jun-2015 13:12:22 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[11-Jun-2015 13:12:23 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[11-Jun-2015 13:12:23 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[11-Jun-2015 13:12:23 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[11-Jun-2015 13:12:24 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[11-Jun-2015 13:12:24 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[11-Jun-2015 13:16:40 Europe/Berlin] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\wamp\www\ngeshopnewlego\pimcore\lib\Pimcore\Tool.php:668) in C:\wamp\www\ngeshopnewlego\pimcore\lib\Pimcore\Tool.php on line 665
+[11-Jun-2015 13:16:40 Europe/Berlin] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\wamp\www\ngeshopnewlego\pimcore\lib\Pimcore\Tool.php:668) in C:\wamp\www\ngeshopnewlego\pimcore\lib\Pimcore\Tool.php on line 665
+[11-Jun-2015 13:16:45 Europe/Berlin] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\wamp\www\ngeshopnewlego\pimcore\lib\Pimcore\Tool.php:668) in C:\wamp\www\ngeshopnewlego\pimcore\lib\Pimcore\Tool.php on line 665
+[11-Jun-2015 13:16:47 Europe/Berlin] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\wamp\www\ngeshopnewlego\pimcore\lib\Pimcore\Tool.php:668) in C:\wamp\www\ngeshopnewlego\pimcore\lib\Pimcore\Tool.php on line 665
+[11-Jun-2015 13:16:51 Europe/Berlin] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\wamp\www\ngeshopnewlego\pimcore\lib\Pimcore\Tool.php:668) in C:\wamp\www\ngeshopnewlego\pimcore\lib\Pimcore\Tool.php on line 665
+[11-Jun-2015 13:16:52 Europe/Berlin] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\wamp\www\ngeshopnewlego\pimcore\lib\Pimcore\Tool.php:668) in C:\wamp\www\ngeshopnewlego\pimcore\lib\Pimcore\Tool.php on line 665
+[11-Jun-2015 13:16:54 Europe/Berlin] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\wamp\www\ngeshopnewlego\pimcore\lib\Pimcore\Tool.php:668) in C:\wamp\www\ngeshopnewlego\pimcore\lib\Pimcore\Tool.php on line 665
+[11-Jun-2015 13:27:16 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[11-Jun-2015 13:49:14 Europe/Berlin] PHP Parse error:  syntax error, unexpected ')' in C:\wamp\www\ngeshopnewlego\website\views\scripts\shop\list\producttheme.php on line 10
+[11-Jun-2015 13:51:16 Europe/Berlin] PHP Parse error:  syntax error, unexpected ')' in C:\wamp\www\ngeshopnewlego\website\views\scripts\shop\list\producttheme.php on line 10
+[11-Jun-2015 13:51:57 Europe/Berlin] PHP Fatal error:  Call to a member function getNavigationPath() on a non-object in C:\wamp\www\ngeshopnewlego\website\views\scripts\shop\list\producttheme.php on line 22
+[11-Jun-2015 13:55:53 Europe/Berlin] PHP Fatal error:  Call to a member function getNavigationPath() on a non-object in C:\wamp\www\ngeshopnewlego\website\views\scripts\shop\list\producttheme.php on line 22
+[11-Jun-2015 13:59:39 Europe/Berlin] PHP Fatal error:  Call to a member function getId() on a non-object in C:\wamp\www\ngeshopnewlego\website\views\scripts\shop\list\producttheme.php on line 22
+[11-Jun-2015 15:21:02 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[11-Jun-2015 15:21:23 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[11-Jun-2015 15:29:35 Europe/Berlin] PHP Warning:  implode(): Invalid arguments passed in C:\wamp\www\ngeshopnewlego\plugins\OnlineShop\lib\OnlineShop\Framework\IndexService\Tenant\Worker\DefaultMysql.php on line 222
+[11-Jun-2015 15:30:33 Europe/Berlin] PHP Warning:  implode(): Invalid arguments passed in C:\wamp\www\ngeshopnewlego\plugins\OnlineShop\lib\OnlineShop\Framework\IndexService\Tenant\Worker\DefaultMysql.php on line 222
+[11-Jun-2015 15:30:37 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[11-Jun-2015 15:33:46 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[11-Jun-2015 15:34:05 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[11-Jun-2015 15:36:00 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[11-Jun-2015 15:40:11 Europe/Berlin] PHP Warning:  implode(): Invalid arguments passed in C:\wamp\www\ngeshopnewlego\plugins\OnlineShop\lib\OnlineShop\Framework\IndexService\Tenant\Worker\DefaultMysql.php on line 219
+[11-Jun-2015 16:18:21 Europe/Berlin] PHP Warning:  implode(): Invalid arguments passed in C:\wamp\www\ngeshopnewlego\plugins\OnlineShop\lib\OnlineShop\Framework\IndexService\Tenant\Worker\DefaultMysql.php on line 221
+[11-Jun-2015 16:19:03 Europe/Berlin] PHP Warning:  implode(): Invalid arguments passed in C:\wamp\www\ngeshopnewlego\plugins\OnlineShop\lib\OnlineShop\Framework\IndexService\Tenant\Worker\DefaultMysql.php on line 220
+[11-Jun-2015 16:20:01 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[11-Jun-2015 16:20:27 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[11-Jun-2015 16:20:54 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[11-Jun-2015 16:22:56 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[11-Jun-2015 16:24:20 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[11-Jun-2015 16:24:41 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[11-Jun-2015 16:24:55 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[11-Jun-2015 16:25:03 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[11-Jun-2015 16:36:37 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[11-Jun-2015 16:38:48 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[11-Jun-2015 16:38:58 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[12-Jun-2015 07:16:41 Europe/Berlin] PHP Catchable fatal error:  Argument 1 passed to Admin_ObjectController::getLatestVersion() must be an instance of Pimcore\Model\Object\Concrete, null given, called in C:\wamp\www\ngeshopnewlego\pimcore\modules\admin\controllers\ObjectController.php on line 289 and defined in C:\wamp\www\ngeshopnewlego\pimcore\modules\admin\controllers\ObjectController.php on line 1768
+[12-Jun-2015 07:16:42 Europe/Berlin] PHP Catchable fatal error:  Argument 1 passed to Admin_ObjectController::getLatestVersion() must be an instance of Pimcore\Model\Object\Concrete, null given, called in C:\wamp\www\ngeshopnewlego\pimcore\modules\admin\controllers\ObjectController.php on line 289 and defined in C:\wamp\www\ngeshopnewlego\pimcore\modules\admin\controllers\ObjectController.php on line 1768
+[12-Jun-2015 07:16:44 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[12-Jun-2015 07:16:45 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[12-Jun-2015 07:16:45 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[12-Jun-2015 07:16:46 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[12-Jun-2015 07:16:46 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[12-Jun-2015 07:16:47 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[12-Jun-2015 07:16:47 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[12-Jun-2015 07:16:48 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[12-Jun-2015 07:32:29 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[12-Jun-2015 07:32:33 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[12-Jun-2015 07:32:33 Europe/Berlin] PHP Fatal error:  Call to a member function getThemeImage() on a non-object in C:\wamp\www\ngeshopnewlego\website\views\areas\themedescription\view.php on line 7
+[12-Jun-2015 07:32:34 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[12-Jun-2015 07:34:04 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[12-Jun-2015 08:02:05 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[12-Jun-2015 08:03:11 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[12-Jun-2015 08:07:55 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[12-Jun-2015 08:07:57 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[12-Jun-2015 08:41:44 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[12-Jun-2015 08:45:42 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[12-Jun-2015 08:45:59 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[12-Jun-2015 08:46:17 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[12-Jun-2015 08:46:44 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[12-Jun-2015 08:47:00 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[12-Jun-2015 08:47:41 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25
+[12-Jun-2015 08:47:58 Europe/Berlin] PHP Fatal error:  Unsupported operand types in C:\wamp\www\ngeshopnewlego\plugins\RatingsComments\controllers\AdminController.php on line 25

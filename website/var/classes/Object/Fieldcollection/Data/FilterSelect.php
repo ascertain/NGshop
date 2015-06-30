@@ -1,0 +1,80 @@
+<?php 
+
+/** Generated at 2015-06-09T09:33:47+02:00 */
+
+/**
+* IP:          127.0.0.1
+*/
+
+
+namespace Pimcore\Model\Object\Fieldcollection\Data;
+
+use Pimcore\Model\Object;
+
+class FilterSelect extends \OnlineShop_Framework_AbstractFilterDefinitionType  {
+
+public $type = "FilterSelect";
+public $label;
+public $field;
+public $scriptPath;
+
+
+/**
+* Get label - Label
+* @return string
+*/
+public function getLabel () {
+	$data = $this->label;
+	 return $data;
+}
+
+/**
+* Get label - Label
+* @param string $label
+* @return \Pimcore\Model\Object\FilterSelect
+*/
+public function setLabel ($label) {
+	$this->label = $label;
+	return $this;
+}
+
+/**
+* Get field - Field
+* @return Object_Data_IndexFieldSelection
+*/
+public function getField () {
+	$data = $this->field;
+	 return $data;
+}
+
+/**
+* Get field - Field
+* @param Object_Data_IndexFieldSelection $field
+* @return \Pimcore\Model\Object\FilterSelect
+*/
+public function setField ($field) {
+	$this->field = $field;
+	return $this;
+}
+
+/**
+* Get scriptPath - Script Path
+* @return string
+*/
+public function getScriptPath () {
+	$data = $this->scriptPath;
+	 return $data;
+}
+
+/**
+* Get scriptPath - Script Path
+* @param string $scriptPath
+* @return \Pimcore\Model\Object\FilterSelect
+*/
+public function setScriptPath ($scriptPath) {
+	$this->scriptPath = $scriptPath;
+	return $this;
+}
+
+}
+
